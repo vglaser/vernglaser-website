@@ -7,6 +7,7 @@ project:
     - "!media.qmd"      # tab removed 2026.06.18 (source kept for reuse)
   resources:
     - assets/
+    - CNAME    # GitHub Pages custom domain — kept in source so `quarto publish` re-emits it every deploy
   preview:
     port: 4848
     browser: false
