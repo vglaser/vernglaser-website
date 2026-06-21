@@ -16,7 +16,7 @@ website:
   title: "Vern L. Glaser"
   description: "Vern L. Glaser, Professor of Entrepreneurship and Family Enterprise at the University of Alberta. Research on algorithmic organizing: how AI, algorithms, and data analytics reshape the routines and strategies of organizations."
   site-url: "https://vernglaser.com"
-  favicon: assets/vern-glaser.jpg
+  favicon: assets/favicon.svg
   open-graph: true
   twitter-card: true
   navbar:
