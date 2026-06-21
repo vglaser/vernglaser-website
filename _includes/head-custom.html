@@ -43,9 +43,10 @@
 }
 </script>
 
-<!-- Favicons: the SVG (modern browsers) is set in _quarto.yml; PNG + apple-touch added here for Safari/iOS, which are finicky with SVG-only favicons. Relative paths resolve at the apex root. -->
-<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<!-- Favicons: all declared here (not via _quarto.yml) so we control order + a ?v= cache-buster. SVG for modern browsers, PNG for Safari, apple-touch for iOS. Bump ?v= when the mark changes. -->
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg?v=2">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=2">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png?v=2">
 
 <!-- Google Scholar citation hint (page-level meta is added per-page by Quarto OG/Twitter cards) -->
 <meta name="author" content="Vern L. Glaser">
