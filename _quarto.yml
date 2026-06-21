@@ -41,7 +41,7 @@ website:
         href: "https://scholar.google.com/citations?user=R0dT55QAAAAJ"
         aria-label: "Google Scholar"
       - icon: linkedin
-        href: "https://www.linkedin.com/in/vernglaser"
+        href: "https://www.linkedin.com/in/vern-glaser-6535601/"
         aria-label: "LinkedIn"
       - icon: envelope-fill
         href: "mailto:vglaser@ualberta.ca"
@@ -56,7 +56,7 @@ website:
       - text: "Scholar"
         href: "https://scholar.google.com/citations?user=R0dT55QAAAAJ"
       - icon: linkedin
-        href: "https://www.linkedin.com/in/vernglaser"
+        href: "https://www.linkedin.com/in/vern-glaser-6535601/"
         aria-label: "LinkedIn"
 
 format:
