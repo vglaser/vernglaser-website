@@ -1,1 +1,1 @@
-Sitemap: https://www.vernglaser.com/sitemap.xml
+Sitemap: https://vernglaser.com/sitemap.xml
