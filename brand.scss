@@ -112,8 +112,8 @@ a:hover { color: $accent-deep; }
 // HOMEPAGE HERO — full-bleed image, bold white question + subtitle (no photo)
 // ---------------------------------------------------------------------------
 .profile-hero { position: relative; background-color: $ink-deep; overflow: hidden; }
-.profile-hero::before { content: ''; position: absolute; inset: 0; z-index: 0; background: url('/assets/banner-home.png') center/cover no-repeat; }
-.profile-hero::after  { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(90deg, rgba(6,18,34,0.62) 0%, rgba(6,18,34,0.42) 50%, rgba(6,18,34,0.18) 100%); }
+.profile-hero::before { content: ''; position: absolute; inset: 0; z-index: 0; background: url('/assets/banner-publications.png') center/cover no-repeat; }
+.profile-hero::after  { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(90deg, rgba(6,18,34,0.55) 0%, rgba(6,18,34,0.28) 50%, rgba(6,18,34,0.06) 100%); }
 .profile-hero__inner { position: relative; z-index: 2; padding-block: clamp(3.5rem, 6vw, 5rem); }
 .hero__question { color: #fff; font-weight: 800; font-size: clamp(2rem, 4.2vw, 3rem); line-height: 1.08; letter-spacing: -0.015em; margin: 0 0 1.3rem; max-width: 24ch; text-shadow: 0 2px 22px rgba(0,0,0,0.4); }
 .hero__rule { width: 64px; height: 4px; background: $accent-bright; border: 0; margin: 0 0 1.3rem; }
@@ -146,7 +146,7 @@ a:hover { color: $accent-deep; }
 .banner--pubs::before        { background-image: url('/assets/banner-publications.png'); }
 .banner--teaching::before    { background-image: url('/assets/banner-teaching.png'); }
 .banner--media::before       { background-image: url('/assets/banner-media.png'); }
-.banner--cv::before          { background-image: url('/assets/banner-cv.png'); }
+.banner--cv::before          { background-image: url('/assets/banner-about.png'); }
 .banner--about::before        { background-image: url('/assets/banner-about.png'); }
 
 // ---------------------------------------------------------------------------
