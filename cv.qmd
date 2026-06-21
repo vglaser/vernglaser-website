@@ -1,0 +1,102 @@
+---
+title: "CV"
+description: "Curriculum vitae of Vern L. Glaser — education, academic positions, honors, and research grants. Full PDF available for download."
+page-layout: full
+---
+
+```{=html}
+<header class="page-banner banner--cv">
+  <h1>Curriculum Vitae</h1>
+  <p class="page-banner__sub">Education, positions, honors, and grants — full PDF available.</p>
+</header>
+```
+
+```{=html}
+<p style="max-width:46rem;">
+  <a class="btn-cta" href="assets/Vern_L._Glaser_CV.pdf" download>Download full CV (PDF)</a>
+</p>
+```
+
+::: {.lead}
+The summary below is at-a-glance. The PDF is the complete record — all publications, teaching, conference papers, service, and professional experience.
+:::
+
+<hr class="rule">
+
+## Education
+
+<div>
+
+University of Southern California — PhD, Management and Organization (2014)
+
+Duke University — MBA, Business Administration (2000)
+
+University of California, Los Angeles — BA, Economics (1992)
+
+</div>
+
+<hr class="rule">
+
+## Academic Positions
+
+<div>
+
+Professor of Entrepreneurship and Family Enterprise, Alberta School of Business, University of Alberta (2024 – present)
+
+Academic Director, Alberta Business Family Institute, University of Alberta (2021 – present)
+
+Academic Director, Centre for Entrepreneurship and Family Enterprise, University of Alberta (2021 – present)
+
+Associate Professor, Alberta School of Business, University of Alberta (2020 – 2024)
+
+Assistant Professor, Alberta School of Business, University of Alberta (2014 – 2019)
+
+</div>
+
+::: {.band--wash}
+
+## Selected Honors & Awards
+
+```{=html}
+<p><span class="chip-prize">2021 James G. March Prize</span></p>
+```
+
+Awarded bi-annually for the best article in *Organization Theory* (EGOS / SAGE), for *The Biography of an Algorithm*.
+
+<hr class="coral-rule">
+
+Eric Geddes Professor of Business Faculty Fellowship, *Beyond Project Management: Understanding the Relational Work of Family Business Consulting* (2025 – 2027)
+
+Donald and Margaret MacKenzie Teaching Award (2025)
+
+MBA Association Excellence in Teaching Award (2025)
+
+Finalist, 2023 OMT Best Paper Published Award, *Algorithmic Routines and Dynamic Inertia* (2024)
+
+Eric Geddes Professor of Business Faculty Fellowship, *The Biography of an Algorithm* (2021 – 2024)
+
+MBA Association Excellence in Teaching Award (2018)
+
+:::
+
+<hr class="rule">
+
+## Research Grants
+
+<div>
+
+SSHRC Insight Grant — *Decoding the Black Box: Tracing the Inscription of Values in Large Language Models* (with Tina Dacin) (2024 – 2026)
+
+SSHRC Insight Grant — *The Hidden Practices of Data Analytics* (with Christopher W.J. Steele) (2020 – 2023)
+
+SSHRC Insight Development Grant — *Big Data and the Rise of the Data Scientist* (with Christopher Steele and Joel Gehman) (2016 – 2018)
+
+</div>
+
+<hr class="rule">
+
+```{=html}
+<p style="max-width:46rem;">
+  <a class="btn-cta" href="assets/Vern_L._Glaser_CV.pdf" download>Download full CV (PDF)</a>
+</p>
+```

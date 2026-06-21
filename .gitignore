@@ -1,0 +1,24 @@
+# Quarto build output (generated — never commit)
+/_site/
+/.quarto/
+*.html.bak
+
+# macOS
+.DS_Store
+
+# Quarto freeze cache (optional to commit; ignoring for the prototype)
+/_freeze/
+
+**/*.quarto_ipynb
+
+# Internal working notes — NOT website content; keep out of the repo
+/CLAUDE.md
+/2026.06.18 - website-project-brief.md
+/.claude/
+
+# Superseded / rejected design assets — kept locally in Dropbox, not published
+/assets/navy-options/
+/assets/_coral-backup-2026.06.19/
+/assets/bg/
+/assets/hero-dark.png
+/assets/tex-*

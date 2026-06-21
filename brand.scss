@@ -1,0 +1,219 @@
+/*-- scss:defaults --*/
+// Vern L. Glaser — v5.1 "Magazine / image-forward", with a UNIFIED layout system.
+// One 860px content column + one vertical rhythm scale; everything aligns to it.
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+
+$ink:          #232323;
+$ink-strong:   #13233a;   // deep navy-ink — headings
+$ink-deep:     #0c2034;   // deep navy — bands, banner base, footer
+$muted:        #6a7480;
+$accent:       #003366;   // CV navy — primary accent on light
+$accent-deep:  #00284d;   // darker navy — hover
+$accent-bright:#5b9bd5;   // steel blue — accents on dark backgrounds
+$accent-warm:  #004f90;   // link blue (legacy slot)
+$accent-light: #6fa8dc;   // light steel
+$rule:         #e6e6e6;
+$rule-warm:    #dde4ec;   // cool hairline
+$coral-wash:   #eef3f9;   // light blue wash — band--wash, chips
+$bg:           #ffffff;
+$panel:        #f3f6fa;   // cool panel — abstract bg
+
+$primary:           $accent;
+$body-color:        $ink;
+$body-bg:           $bg;
+$link-color:        #004f90;
+$link-hover-color:  $accent-deep;
+
+$font-family-sans-serif: "Raleway", "Helvetica Neue", Arial, sans-serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.7;
+$headings-font-weight: 700;
+$headings-color: $ink-strong;
+
+$navbar-light-bg: #ffffff;
+$navbar-light-color: $ink;
+$navbar-light-hover-color: $accent;
+$navbar-light-active-color: $accent;
+$border-radius: 3px;
+
+/*-- scss:rules --*/
+
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-weight: 400; }
+#title-block-header, header#title-block-header.quarto-title-block { display: none; }
+
+// ===========================================================================
+// LAYOUT SYSTEM  — one content column ($content), one rhythm scale.
+// Normal content flows in the 860 column; full-bleed sections break out and
+// re-align their inner content to the SAME column, so every left edge matches.
+// ===========================================================================
+$content: 860px;
+$gutter: 1.25rem;
+$gap: 3.5rem;   // standard gap between sections
+
+main#quarto-document-content.content {
+  max-width: $content;
+  margin-inline: auto;
+  padding-inline: $gutter;
+  padding-block: 0;
+}
+
+// Full-bleed bands break out of the column to the viewport edges…
+.profile-hero { margin: -1rem calc(50% - 50vw) 0; }
+.page-banner  { margin: -1rem calc(50% - 50vw) #{$gap}; }
+.band--wash, .band--ink { margin: #{$gap} calc(50% - 50vw); }
+
+// …and re-align their inner content to the same 860 column.
+.profile-hero__inner,
+.page-banner > * {
+  max-width: $content;
+  margin-inline: auto;
+  padding-inline: $gutter;
+  width: 100%;
+}
+// Bands pad to the SAME 860 content column (works for inline-block h2 too)
+.band--wash, .band--ink { padding-inline: max(#{$gutter}, calc(50vw - 410px)); }
+.band--wash > :first-child, .band--ink > :first-child { margin-top: 0; }
+.band--wash > :last-child,  .band--ink > :last-child  { margin-bottom: 0; }
+
+// ---------------------------------------------------------------------------
+// NAVBAR
+// ---------------------------------------------------------------------------
+.navbar { background: #fff; border-bottom: 1px solid $rule; padding-top: 0.85rem; padding-bottom: 0.85rem; }
+.navbar-brand { text-transform: uppercase; letter-spacing: 1.5px; font-weight: 800; font-size: 1rem; white-space: nowrap; color: $ink-strong !important; }
+.navbar .nav-link {
+  text-transform: uppercase; letter-spacing: 1.2px; text-indent: 1.2px;  // text-indent compensates trailing letter-spacing so glyphs center under the underline
+  font-weight: 600; font-size: 0.78rem; color: $ink !important;
+  padding-left: 0.7rem !important; padding-right: 0.7rem !important;
+}
+.navbar .nav-link:hover { color: $accent !important; }
+.navbar .nav-link.active { color: $ink-strong !important; box-shadow: inset 0 -3px 0 $accent; }
+
+// ---------------------------------------------------------------------------
+// TYPE
+// ---------------------------------------------------------------------------
+h1 { font-weight: 800; font-size: clamp(2.1rem, 4.5vw, 3.1rem); line-height: 1.1; letter-spacing: -0.01em; color: $ink-strong; }
+h2 {
+  font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; font-size: 1.2rem;
+  color: $ink-strong; display: inline-block; margin: #{$gap} 0 1.4rem;
+  padding-bottom: 0.45rem; border-bottom: 3px solid $accent;
+}
+h3 { font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.98rem; color: $ink-strong; margin-top: 2rem; }
+p { margin-bottom: 1.1rem; }
+a { text-decoration: none; transition: color 0.15s ease; }
+a:hover { color: $accent-deep; }
+.eyebrow { display: block; text-transform: uppercase; letter-spacing: 2.5px; font-weight: 700; font-size: 0.75rem; color: $accent; margin-bottom: 0.7rem; }
+// Standard page intro ("standfirst") — one consistent style on every interior page
+.lead { font-size: 1.25rem; font-weight: 400; color: $ink; line-height: 1.6; margin: 0 0 1.5rem; max-width: none; }
+
+// ---------------------------------------------------------------------------
+// HOMEPAGE HERO — full-bleed image, bold white question + subtitle (no photo)
+// ---------------------------------------------------------------------------
+.profile-hero { position: relative; background-color: $ink-deep; overflow: hidden; }
+.profile-hero::before { content: ''; position: absolute; inset: 0; z-index: 0; background: url('/assets/banner-home.png') center/cover no-repeat; }
+.profile-hero::after  { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(90deg, rgba(6,18,34,0.62) 0%, rgba(6,18,34,0.42) 50%, rgba(6,18,34,0.18) 100%); }
+.profile-hero__inner { position: relative; z-index: 2; padding-block: clamp(3.5rem, 6vw, 5rem); }
+.hero__question { color: #fff; font-weight: 800; font-size: clamp(2rem, 4.2vw, 3rem); line-height: 1.08; letter-spacing: -0.015em; margin: 0 0 1.3rem; max-width: 24ch; text-shadow: 0 2px 22px rgba(0,0,0,0.4); }
+.hero__rule { width: 64px; height: 4px; background: $accent-bright; border: 0; margin: 0 0 1.3rem; }
+.hero__title { font-size: 1.02rem; color: rgba(255,255,255,0.9); line-height: 1.6; font-weight: 500; text-shadow: 0 1px 10px rgba(0,0,0,0.35); }
+
+// Profile section photo (moved here from the hero) — small, in context
+.profile-bio { font-size: 1.14rem; line-height: 1.7; color: $ink; }
+.profile-bio::after { content: ''; display: block; clear: both; }
+.profile-photo {
+  float: left; width: 210px; aspect-ratio: 4/5; object-fit: cover; object-position: center 18%;
+  border-radius: 4px; margin: 0.3rem 1.75rem 1rem 0; box-shadow: 0 14px 32px rgba(0,0,0,0.16);
+}
+
+// ---------------------------------------------------------------------------
+// PAGE BANNER — full-bleed image, bold white title + subtitle below
+// ---------------------------------------------------------------------------
+.page-banner {
+  position: relative; min-height: 230px;
+  padding-block: clamp(3rem, 5vw, 4.25rem);
+  display: flex; flex-direction: column; justify-content: center;
+  background-color: $ink-deep; overflow: hidden;
+}
+.page-banner::before { content: ''; position: absolute; inset: 0; z-index: 0; background-size: cover; background-position: center; }
+.page-banner::after  { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(90deg, rgba(6,18,34,0.62) 0%, rgba(6,18,34,0.42) 55%, rgba(6,18,34,0.20) 100%); }
+.page-banner > * { position: relative; z-index: 2; }
+.page-banner h1 { color: #fff; font-weight: 800; margin: 0 auto; text-shadow: 0 2px 22px rgba(0,0,0,0.4); }
+.page-banner__sub { color: rgba(255,255,255,0.92); font-weight: 500; font-size: clamp(1rem, 1.6vw, 1.15rem); line-height: 1.5; margin: 0.7rem auto 0; max-width: $content; text-shadow: 0 1px 12px rgba(0,0,0,0.3); }
+
+.banner--research::before    { background-image: url('/assets/banner-research.png'); }
+.banner--pubs::before        { background-image: url('/assets/banner-publications.png'); }
+.banner--teaching::before    { background-image: url('/assets/banner-teaching.png'); }
+.banner--media::before       { background-image: url('/assets/banner-media.png'); }
+.banner--cv::before          { background-image: url('/assets/banner-cv.png'); }
+.banner--about::before        { background-image: url('/assets/banner-about.png'); }
+
+// ---------------------------------------------------------------------------
+// BANDS + DIVIDERS
+// ---------------------------------------------------------------------------
+.band--wash { background: $coral-wash; border-block: 1px solid $rule-warm; padding-block: 4rem; }
+.band--ink  { background: $ink-deep; color: #fff; padding-block: 4rem; }
+.band--wash > *, .band--ink > * { max-width: $content; }
+.band--ink h2 { color: #fff; border-bottom-color: $accent-bright; }
+.rule { border: 0; border-top: 1px solid $rule; margin: #{$gap} 0; }
+.coral-rule { width: 64px; height: 4px; background: $accent; border: 0; margin: 1.6rem 0; }
+.rule-mark { text-align: center; border: 0; border-top: 1px solid $rule; margin: 1.1rem 0; position: relative; }
+.rule-mark::after { content: '◆'; color: $accent; position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: $bg; padding: 0 0.6rem; font-size: 0.7rem; }
+
+// ---------------------------------------------------------------------------
+// PUBLICATIONS
+// ---------------------------------------------------------------------------
+.pub { padding: 1.1rem 0; }
+.pub-authors { font-weight: 500; color: $ink; margin-bottom: 0.3rem; }
+.pub-authors strong { font-weight: 800; color: $ink-strong; }
+.pub-title { font-size: 1.2rem; color: $ink-strong; margin-bottom: 0.6rem; line-height: 1.35; font-weight: 600; }
+.pub-title em { font-style: italic; font-weight: 600; }
+.pub-venue { text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.72rem; font-weight: 700; color: $muted; }
+.abstract { background: $panel; border-left: 4px solid $accent; padding: 1.1rem 1.35rem; margin: 0.5rem 0 0.9rem; font-size: 0.96rem; line-height: 1.75; color: $ink; }
+.pub-doi { display: inline-block; text-transform: uppercase; letter-spacing: 0.4px; font-size: 0.82rem; font-weight: 700; color: $accent; }
+.pub-doi:hover { color: $accent-deep; }
+.chip-prize { display: inline-block; background: $accent; color: #fff; text-transform: uppercase; letter-spacing: 1.2px; font-size: 0.66rem; font-weight: 700; padding: 0.22rem 0.62rem; border-radius: 999px; margin-left: 0.5rem; vertical-align: middle; }
+
+// In-page section jump nav (Publications)
+.pub-jump { display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; align-items: center; margin: 0 0 1.5rem; padding: 0.85rem 0; border-top: 1px solid $rule; border-bottom: 1px solid $rule; }
+.pub-jump a { text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.74rem; font-weight: 700; color: $muted; text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; transition: color 0.15s, border-color 0.15s; }
+.pub-jump a:hover { color: $accent; border-bottom-color: $accent; }
+.pub-footnote { color: $muted; font-size: 0.95rem; }
+.pub-footnote a { color: $accent; font-weight: 600; }
+
+// ---------------------------------------------------------------------------
+// SELECTED / REPRESENTATIVE WORK
+// ---------------------------------------------------------------------------
+.replist { margin-top: 1rem; }
+.repitem { padding: 1.5rem 0; border-top: 1px solid $rule-warm; }
+.repitem:first-child { border-top: 0; padding-top: 0; }
+.repitem__venue { text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.72rem; font-weight: 700; color: $accent; }
+.repitem__title { font-size: 1.25rem; font-weight: 700; color: $ink-strong; line-height: 1.3; margin: 0.35rem 0 0.5rem; }
+.repitem__title em { font-style: italic; }
+.repitem__why { font-size: 1rem; color: $ink; margin: 0 0 0.6rem; }
+.repitem__link { text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.74rem; font-weight: 700; color: $accent; }
+
+// Topic chips
+.topics { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 0; padding: 0; list-style: none; }
+.topic { display: inline-block; font-size: 0.8rem; font-weight: 600; color: $ink; background: $coral-wash; border: 1px solid $rule-warm; border-radius: 999px; padding: 0.32rem 0.9rem; }
+
+// Buttons
+.btn-cta, .btn-ghost { display: inline-block; text-transform: uppercase; letter-spacing: 1.5px; font-weight: 700; font-size: 0.74rem; padding: 0.75rem 1.5rem; border-radius: 3px; }
+.btn-cta { background: $accent; color: #fff !important; border: 2px solid $accent; }
+.btn-cta:hover { background: $accent-deep; border-color: $accent-deep; color: #fff !important; }
+.btn-ghost { background: transparent; color: $ink !important; border: 2px solid #cfcfcf; }
+.btn-ghost:hover { border-color: $accent; color: $accent !important; }
+
+// Footer
+.nav-footer { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 1px; border-top: 3px solid $accent-bright; background: $ink-deep; }
+.nav-footer, .nav-footer .nav-footer-center, .nav-footer a { color: rgba(255,255,255,0.75) !important; }
+.nav-footer a:hover { color: #fff !important; }
+
+// ---------------------------------------------------------------------------
+// RESPONSIVE
+// ---------------------------------------------------------------------------
+@media (max-width: 620px) {
+  .hero__question { max-width: 100%; }
+  .profile-photo { float: none; display: block; margin: 0 auto 1.5rem; width: 180px; }
+}

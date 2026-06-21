@@ -1,0 +1,57 @@
+---
+title: "Research"
+description: "Vern Glaser's research program — algorithmic organizing and cultural entrepreneurship — studied through qualitative and computational methods."
+---
+
+```{=html}
+<header class="page-banner banner--research">
+  <h1>Research</h1>
+  <p class="page-banner__sub">Algorithmic organizing — how algorithms, AI, and analytics reshape organizations.</p>
+</header>
+```
+
+::: {.lead}
+I study the question, *How do organizations strategically change practices and culture?* Most of my research involves understanding how organizations use algorithms, arguments, and analogies to change routines and to create new capabilities.
+:::
+
+## Algorithmic Organizing
+
+Most of my work follows algorithms, AI, and data analytics as they become woven into organizational routines, decisions, and strategy. Rather than treating an algorithm as a self-contained tool, I theorize algorithms as *entangled, relational, emergent, and nested assemblages* — of humans, algorithms, data, and artifacts — and trace how they evolve as they move across contexts and over time.
+
+This thread runs through [*The Biography of an Algorithm*](https://doi.org/10.1177/26317877211004609) (winner of the 2021 James G. March Prize), the [*Organizations as Algorithms*](https://doi.org/10.1111/joms.13033) metaphor for management theory, and work on how algorithmic routines can produce [*dynamic inertia*](https://doi.org/10.1111/joms.12819) — the way organizations using algorithms to adapt can, paradoxically, fail to keep pace with their environment. More recent work asks what happens to organizational **values** as AI agents take on real work, including [*Reading* The Technological Society](https://doi.org/10.5465/amr.2021.0159) on the mechanization of values and an [assemblage perspective on hybrid human–AI agency](https://doi.org/10.5465/amr.2024.0126).
+
+I edited the volume *Algorithmic Organizing* (Research in the Sociology of Organizations, 2025) and convene the IDeaS workshops on interpretive and ethnographic approaches to data science.
+
+::: {.band--wash}
+### Methods: Qualitative + Computational
+
+I primarily use qualitative research methods, and have conducted studies in the predictive analytics and online display advertising industries. I have also conducted ethnographic work with an entrepreneurial start-up in the analytics industry.
+
+This fieldwork is increasingly paired with computational text analysis — including [topic modeling for management research](https://doi.org/10.5465/annals.2017.0099) — and, most recently, generative AI as a research partner ([*Chatty Actors*](https://doi.org/10.1177/10564926231219622); [*Robotic Artistry*](https://doi.org/10.1177/14761270261448648)). I have also written on [finding theory–method fit](https://doi.org/10.1177/1056492617706029) across qualitative approaches to theory building.
+:::
+
+## Cultural Entrepreneurship
+
+A second thread examines how entrepreneurs and organizations make new categories, markets, and practices *legitimate* — through framing, analogy, and the design of cultural artifacts. This includes work on [stretching financial-market analogies](https://doi.org/10.1287/orsc.2016.1069) to make online advertising exchanges work, [goal-based categorization](https://doi.org/10.1177/0170840619883368) in the display advertising industry, and how organizations [inscribe artifacts to change routines](https://doi.org/10.5465/amj.2014.0842) (*Design Performances*). In *Designing Legitimacy*, Michael Lounsbury and I draw on design studies to expand the scope of cultural entrepreneurship.
+
+::: {.eyebrow}
+Theoretical topics of interest
+:::
+
+::: {.topics}
+[Algorithms and analytics]{.topic}
+[Framing, arguments, and analogies]{.topic}
+[Routines and capabilities]{.topic}
+[Strategic management]{.topic}
+[Strategy-as-Practice]{.topic}
+[Organizational theory]{.topic}
+[Culture and social cognition]{.topic}
+[Family business]{.topic}
+[Institutional logics]{.topic}
+[Technology]{.topic}
+[Innovation and Entrepreneurship]{.topic}
+:::
+
+<hr class="rule">
+
+The full record — every article with its abstract and DOI — is on the [Publications](publications.qmd) page.

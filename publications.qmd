@@ -1,0 +1,482 @@
+---
+title: "Publications"
+description: "Peer-reviewed journal articles, edited books, and book chapters and conference proceedings by Vern L. Glaser."
+pagetitle: "Publications — Vern L. Glaser"
+---
+
+```{=html}
+<header class="page-banner banner--pubs">
+  <h1>Publications</h1>
+  <p class="page-banner__sub">Journal articles, books, and chapters — with abstracts.</p>
+</header>
+```
+
+::: {.lead}
+Peer-reviewed articles, edited volumes, and book chapters, with the abstract under each where one is available. Most links point to the article's DOI.
+:::
+
+```{=html}
+<nav class="pub-jump" aria-label="Jump to section">
+  <a href="#articles">Journal Articles</a>
+  <a href="#books">Edited Books</a>
+  <a href="#chapters">Book Chapters &amp; Proceedings</a>
+</nav>
+```
+
+## Journal Articles {#articles}
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Jennifer Sloan, Rodrigo Valadão, Evelyn Micelotta.</p>
+<p class="pub-title"><em>The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted</em></p>
+<p class="pub-venue">Academy of Management Review · Forthcoming</p>
+<p class="abstract">Organizational scholars have long recognized that espoused values diverge from enacted values. LLM-based AI agents—autonomous software systems capable of perceiving environments, making decisions, collaborating, and taking actions to achieve defined goals—create a novel form of this classic problem. Unlike traditional technologies where humans retain interpretive control, AI agents autonomously navigate value trade-offs, and enacted values may differ from those espoused. How does the interaction of humans and AI transform espoused organizational values? Drawing on assemblage theory, we trace values transformation across three stacked assemblages (the LLM assemblage, the AI agent assemblage, and the algorithmic routine assemblage) through three transformation moments. During configuration, inherited orientations become explicit parameters; during embedding, parameters are integrated into organizational routines; during performance, values are enacted through the interplay of algorithmic pathways and improvised responses. Recursive feedback connects enacted outcomes to subsequent configurations, producing ongoing transformation rather than stable alignment. Our framework extends scholarship on espoused and enacted values by specifying technologically mediated transformation mechanisms produced through the interaction of humans and AI.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Jennifer Sloan, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Stop Prompting AI, Start Directing It</em></p>
+<p class="pub-venue">MIT Sloan Management Review · Forthcoming</p>
+<p class="abstract">Many managers treat generative AI like a vending machine: type a prompt, take whatever comes out, and move on. We argue that this transactional habit squanders the technology's potential. Drawing on research into how organizations work with algorithms and AI, we suggest a more productive stance—stop prompting AI and start directing it. Like a director guiding a talented but literal-minded collaborator, leaders get markedly better results when they supply rich context, articulate the goal and the constraints, make explicit the values and guardrails the work must respect, and iterate across successive drafts rather than expecting a finished answer in a single shot. We offer practical principles for directing AI, and explain why treating it as a collaborator to be guided—rather than a tool to be queried—is becoming a core managerial capability.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Jennifer Sloan, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Robotic Artistry: Four Surprise Pathways for GenAI-Assisted Abductive Theorization</em></p>
+<p class="pub-venue">Strategic Organization · Forthcoming</p>
+<p class="abstract">The role of generative AI (GenAI) in qualitative research is subject to intense debate, with critics warning that it could undermine human sensitivity and contextual understanding. We argue that thoughtfully integrated AI can enhance qualitative research by promoting discovery and surprise, both essential elements of theory building. Drawing on Picasso's iterative abstraction in The Bull and Refik Anadol's Unsupervised exhibition at MoMA, we treat reduction and synthesis as complementary engines of insight and identify four surprise generation pathways in GenAI-assisted abductive analysis: multiplying lenses, surfacing absences, bridging levels, and testing categories. When paired with interpretive vigilance operationalized through four heuristics, meaning-making remains squarely in human hands. Using an empirical example of organizational future-making, we show how AI's pattern recognition combined with human interpretation reveals insights neither could achieve alone. Our framework positions AI as a collaborative partner that amplifies researchers' capacity for theoretical discovery while preserving methodological rigor and interpretive depth.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1177/14761270261448648">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Joel Gehman, <strong>Vern L. Glaser</strong>, Paul Merritt.</p>
+<p class="pub-title"><em>An Assemblage Perspective on Hybrid Agency: A Commentary on Raisch and Fomina's Combining Human and Artificial Intelligence</em></p>
+<p class="pub-venue">Academy of Management Review · 50(2), 477–479 · 2025</p>
+<p class="abstract">In their recently published study, "Combining Human and Artificial Intelligence: Hybrid Problem-Solving in Organizations", Raisch and Fomina (2024) propose a theoretical model of hybrid agency that integrates human intelligence with AI for problem-solving. They posit three types of search—autonomous, sequential, and interactive—each with fixed relationships to depth and scope of knowledge use. We believe there are three issues with Raisch and Fomina's argument. First, their theorization persists in balkanizing human and non-human agencies, black-boxing the complex human choices required to sustain their propositions. Second, their account of AI agency is problematic as it primarily relies on generative adversarial networks (GANs), limiting the generalizability of their model. Finally, a broader conception of agency in AI, viewed as an assemblage of humans, algorithms, data, and artifacts, reveals that the relationships between search types and outcomes are neither fixed nor can they be theoretically black-boxed. We argue that theorizing AI requires consideration of specific AI capabilities and the demands of given tasks, encouraging future research to take an assemblage perspective in order to theorize the complex interplay between human and AI agencies in organizational settings.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5465/amr.2024.0126">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Jennifer Sloan, Joel Gehman.</p>
+<p class="pub-title"><em>Organizations as Algorithms: A New Metaphor for Advancing Management Theory</em></p>
+<p class="pub-venue">Journal of Management Studies · 61(6), 2748–2769 · 2024</p>
+<p class="abstract">According to the 'Point' essay, management research's reliance on corporate data threatens to replace objective theory with profit-biased 'corporate empiricism,' undermining the scientific and ethical integrity of the field. In this 'Counterpoint' essay, we offer a more expansive understanding of big data and algorithmic processing and, by extension, see promising applications to management theory. Specifically, we propose a novel management metaphor: organizations as algorithms. This metaphor offers three insights for developing innovative, relevant, and grounded organization theory. First, agency is distributed in assemblages rather than being solely attributed to individuals, algorithms, or data. Second, machine-readability serves as the immutable and mobile base for organizing and decision-making. Third, prompting and programming transform the role of professional expertise and organizational relationships with technologies. Contrary to the 'Point' essay, we see no theoretical 'end' in sight; the organization as algorithm metaphor enables scholars to build innovative theories that account for the intricacies of algorithmic decision-making.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1111/joms.13033">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Christine Moser, <strong>Vern L. Glaser</strong>, Dirk Lindebaum.</p>
+<p class="pub-title"><em>Taking Situatedness Seriously in Theorizing about Competitive Advantage through AI — A Response to Kemp's Competitive Advantages Through Artificial Intelligence</em></p>
+<p class="pub-venue">Academy of Management Review · 49(3), 683–685 · 2024</p>
+<p class="abstract">In the recently published study, "Competitive advantages through artificial intelligence: Toward a theory of situated AI", Kemp (2023) argues that AI can drive competitive advantage if three properties of AI can be overcome—it's nature as a generic technology, its reliance on an explicit articulation of knowledge, and its tendency to be "myopic" due to its lack of contextual awareness. We believe there are three issues with Kemp's argument. First, the theorization relies on overly rational assumptions that do not take social values or the dark side of AI into account. Second, Kemp does not engage sociomaterial views on the agency of technology that suggest that successful application of grounding, bounding, and recasting activities may end up actually harming not only the firm, but also society more broadly. Finally, a broader conception of agency in AI can help us envisage alternative assemblages that would falsify Kemp's propositions about the relationship of supervised and unsupervised learning algorithms and competitive advantage.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5465/amr.2023.0265">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Joel Gehman.</p>
+<p class="pub-title"><em>Chatty Actors: Generative AI and the Reassembly of Agency in Qualitative Research</em></p>
+<p class="pub-venue">Journal of Management Inquiry · 33(3), 207–229 · 2024</p>
+<p class="abstract">In this essay, we explore how generative AI can contribute to qualitative research by examining its potential to reassemble agency. Specifically, we suggest that the affordances of Large Language Models and generative AI facilitate three distinct ideal-typical agentic possibilities: Generative AI as a research assistant that supports researchers by functioning as an administrative assistant and interactive conversation partner; generative AI as a data analyst that can be programmed by the researcher to analyze data with enhanced, dynamic pattern recognition; and generative AI as co-author that can act as a semi-autonomous agent in the pursuit, discovery, and refinement of new knowledge. Paralleling these three modes of actorhood, we introduce three principles of governance that management researchers can embrace to mitigate against the potential abuses of generative AI.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1177/10564926231219622">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Dirk Lindebaum, Christine Moser, Mehreen Ashraf, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Reading The Technological Society to Understand the Mechanization of Values and its Ontological Consequences</em></p>
+<p class="pub-venue">Academy of Management Review · 48(3), 575–592 · 2023</p>
+<p class="abstract">In this essay, we review Jacques Ellul's book The Technological Society to highlight 'technique' – the book's central phenomenon – and its theoretical relevance for organizational and institutional theorists. Technique is defined as "the totality of methods rationally arrived at and having absolute efficiency . . . in every field of human activity" in society (1964: xxv, italics added). More than simply 'machine technology', technique involves the rational pursuit of standardized means or practices for attaining predetermined results. What makes Ellul both unique and relevant for organizational and institutional theorists is his historical analysis delineating the characteristics of, and the processes through which, technique has evolved into an autonomic and agentic force. We build on and mobilize Ellul's analysis to explore two aims in this essay. First, we aim to illuminate the process through which technique transforms values – a process we describe as the mechanization of values in organizations and institutions. Second, we identify the consequences of value mechanization for organizational scholarship.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5465/amr.2021.0159">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Omid Omidvar, Mehdi Safavi.</p>
+<p class="pub-title"><em>Predictive Models Can Lose the Plot. Here's How to Keep Them on Track</em></p>
+<p class="pub-venue">MIT Sloan Management Review · 64(4), 20–25 · 2023</p>
+<p class="abstract">Organizations using algorithms and artificial intelligence often fail to effectively navigate risk and disruption due to a phenomenon we call algorithmic inertia: when organizations use algorithmic models to take environmental changes into account but fail to keep pace with those changes. Building on an in-depth historical case study of how Moody's used algorithms to rate mortgage-backed securities before the 2008 financial crisis, we identify four sources of algorithmic inertia: (1) buried assumptions, (2) superficial remodeling, (3) simulation of the unknown future, and (4) specialized compartmentalization. We suggest that organizations can overcome these sources of algorithmic inertia through four corresponding practices: (1) exposing data and assumptions, (2) periodically redesigning algorithmic models and their broader organizational routines, (3) assuming that the model will break, and (4) building bridges between data scientists and domain experts.</p>
+<p class="pub-doi"><a href="https://sloanreview.mit.edu/article/predictive-models-can-lose-the-plot-heres-how-to-keep-them-on-track/">Read at MIT Sloan Management Review</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Omid Omidvar, Mehdi Safavi, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Algorithmic Routines and Dynamic Inertia: How Organizations Avoid Adapting to Changes in the Environment</em></p>
+<p class="pub-venue">Journal of Management Studies · 60(2), 313–345 · 2023</p>
+<p class="abstract">Organizations often fail to adequately respond to substantive changes in the environment, despite widespread implementation of algorithmic routines designed to enable dynamic adaptation. We develop a theory to explain this phenomenon based on an inductive, historical case study of the credit rating routine of Moody's, an organization that failed to adapt to substantial changes in its environment leading up to the 2008 financial crisis. Our analysis of changes to the firm's algorithmic credit rating routine reveals mechanisms whereby organizations dynamically produce inertia by taking actions that fail to produce significant change. Dynamic inertia occurs through bounded retheorization of the algorithmic model, sedimentation of assumptions about inputs to the algorithmic model, simulation of the unknown future, and specialized compartmentalization. We enable a better understanding of organizational inertia as a socio-material phenomenon by theorizing how – despite using algorithmic routines to improve organizational agility – organizations dynamically produce inertia, with potentially serious adverse consequences.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1111/joms.12819">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Dirk Lindebaum, <strong>Vern L. Glaser</strong>, Christine Moser, Mehreen Ashraf.</p>
+<p class="pub-title"><em>When Algorithms Rule, Values Can Wither</em></p>
+<p class="pub-venue">MIT Sloan Management Review · 64(2), 66–69 · 2022</p>
+<p class="abstract">When organizations integrate algorithms into business processes, it is tacitly agreed that everything must be measured, quantified, standardized, and rationalized so it is ready for computation. This induces a process that we call the mechanization of values, in which everything is forced into a quantifiable straitjacket that limits consideration of the full spectrum of human values. This process has a potentially devastating side effect: rationality as preferred conduct and efficiency as preferred end taking over all other values, becoming ultimate values in and of themselves. Organizations can strategically mitigate this risk: (1) beware of proxies and scaling effects, (2) strategically insert human interventions into algorithmic decision-making, and (3) create evaluative systems that take multiple values into account.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Michael Lounsbury.</p>
+<p class="pub-title"><em>Designing Legitimacy: Expanding the Scope of Cultural Entrepreneurship</em></p>
+<p class="pub-venue">Journal of Business Venturing Design · 1(1), 1–11 · 2021</p>
+<p class="abstract">While the cultural entrepreneurship literature has shown how the stories entrepreneurs tell about their ventures help them attain legitimacy and acquire resources, we still know very little about how entrepreneurs develop their stories or how they change over time. In this paper, we draw upon Donald Schön's research in design studies to conceptualize a novel approach to understanding the dynamics of entrepreneurial stories and to provide a bridge between the cultural entrepreneurship and design literatures. While the design perspective in entrepreneurship research has tended to neglect the role of wider sociocultural processes related to legitimacy, we highlight three insights from Schön's research—iterative prototyping, design worlds, and the artistry of design—that scholars can leverage to cultivate a unique perspective on the entrepreneurial pursuit of legitimacy. We then provide an illustrative example that fleshes out how a design approach may fruitfully guide the study of cultural entrepreneurship processes. Finally, we conclude with a discussion of how a designing legitimacy perspective might seed a research agenda that promises to enhance our understanding of frame resonance and the effectiveness of stories, pivoting, and the construction of entrepreneurial possibilities.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1016/j.jbvd.2022.100007">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Neil Pollock, Luciana D'Adderio.</p>
+<p class="pub-title"><em>The Biography of an Algorithm: Performing Algorithmic Technologies in Organizations</em></p>
+<p class="pub-venue">Organization Theory · 2, 1–27 · 2021</p>
+<span class="chip-prize">2021 James G. March Prize</span>
+<p class="abstract">Algorithms are ubiquitous in modern organizations. Typically, researchers have viewed algorithms as self-contained computational tools that either magnify organizational capabilities or generate unintended negative consequences. To overcome this limited understanding of algorithms as stable entities, we propose two moves. The first entails building on a performative perspective to theorize algorithms as entangled, relational, emergent, and nested assemblages that use theories—and the sociomaterial networks they invoke—to automate decisions, enact roles and expertise, and perform calculations. The second move entails building on our dynamic perspective on algorithms to theorize how algorithms evolve as they move across contexts and over time. To this end, we introduce a biographical perspective on algorithms which traces their evolution by focusing on key "biographical moments." We conclude by discussing how our performativity-inspired biographical perspective on algorithms can help management and organization scholars better understand organizational decision-making, the spread of technologies and their logics, and the dynamics of practices and routines.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1177/26317877211004609">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Mariam Krikorian-Atkinson, Peer C. Fiss.</p>
+<p class="pub-title"><em>Goal-Based Categorization: Dynamic Classification in the Display Advertising Industry</em></p>
+<p class="pub-venue">Organization Studies · 41(7), 921–943 · 2020</p>
+<p class="abstract">Goal-based categories have recently emerged as an alternative perspective to the dominant account of prototypical market categories. However, key questions remain regarding the mechanisms that would enable stable market exchanges to form around ad hoc and idiosyncratic goal-based categories. Thus, we sought to answer the following question: How can goal-based categorization enable stable market transactions? Through an inductive study drawing on industry discourse, participant observation, and interview data from the online advertising industry, we describe the category infrastructure that enables buyers and sellers to engage in market exchanges using goal-based categorization. Three mechanisms are integral to goal-based categorization in market exchanges: dimensioning (establishing a possibility space in which valuation can take place through the identification, addition, and/or deletion of product features), scoping (selecting particular features in the possibility space), and bracketing (excluding certain actors from participating in market transactions). Moreover, the fundamental principle of valuation in goal-based categorization is goal-based attribution, which involves iteratively adding and deleting features to accommodate evolving goals. Our findings suggest novel directions for work on goal-based categorization as an important element of valuation in modern markets.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1177/0170840619883368">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Timothy Hannigan, Richard F. J. Haans, Keyvan Vakili, Hovig Tchalian, <strong>Vern L. Glaser</strong>, Milo Wang, Sarah Kaplan, P. Devereaux Jennings.</p>
+<p class="pub-title"><em>Topic Models in Management Research: Rendering New Theory from Textual Data</em></p>
+<p class="pub-venue">Academy of Management Annals · 13(2), 586–632 · 2019</p>
+<p class="abstract">Increasingly, management researchers are using topic modeling, a new method borrowed from computer science, to reveal phenomenon-based constructs and grounded conceptual relationships in textual data. By conceptualizing topic modeling as the process of rendering constructs and conceptual relationships from textual data, we demonstrate how this new method can advance management scholarship without turning topic modeling into a black box of complex computer-driven algorithms. We begin by comparing features of topic modeling to related techniques (content analysis, grounded theorizing, and natural language processing). We then walk through the steps of rendering with topic modeling and apply rendering to management articles that draw on topic modeling. Doing so enables us to identify and discuss how topic modeling has advanced management theory in five areas: detecting novelty and emergence, developing inductive classification systems, understanding online audiences and products, analyzing frames and social movements, and understanding cultural dynamics. We conclude with a review of new topic modeling trends and revisit the role of researcher interpretation in a world of computer-driven textual analysis.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5465/annals.2017.0099">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Luciana D'Adderio, <strong>Vern L. Glaser</strong>, Neil Pollock.</p>
+<p class="pub-title"><em>Performing Theories, Transforming Organizations: A Reply to Marti and Gond</em></p>
+<p class="pub-venue">Academy of Management Review · 44(3), 676–679 · 2019</p>
+<p class="abstract">Marti and Gond (2018) recently attempted to extend our understanding of how theories shape social reality by developing a process model of performativity and by articulating the boundary conditions that delimit that process. While we laud Marti and Gond's attempt to develop an analytical template to study the effectiveness and influence of theories, and fully share their overarching sentiment about the substantial potential for this kind of theorizing effort, we believe there are two fundamental flaws in their framework. First, Marti and Gond conceptualize a theory as an objectified, stand-alone entity. Second, they characterize the effects of a theory in terms of a linear, sequential process. In contrast to this view, we conceptualize a theory as inherently relational (i.e., it must be considered in conjunction with actors, artifacts, practices, and other theories) and characterize the effects of a theory in terms of dynamic, nonlinear processes. We believe that conceptualizing theories relationally and characterizing the effects of theories dynamically enhance the generative potential of performativity for management research.</p>
+<p class="pub-doi"><a href="https://doi.org/10.5465/amr.2018.0378">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Joel Gehman, <strong>Vern L. Glaser</strong>, Kathleen M. Eisenhardt, Dennis A. Gioia, Ann Langley, Kevin G. Corley.</p>
+<p class="pub-title"><em>Finding Theory-Method Fit: A Comparison of Three Qualitative Approaches to Theory-Building</em></p>
+<p class="pub-venue">Journal of Management Inquiry · 27(3), 284–300 · 2018</p>
+<p class="abstract">This article, together with a companion video, provides a synthesized summary of a Showcase Symposium held at the 2016 Academy of Management Annual Meeting in which prominent scholars—Denny Gioia, Kathy Eisenhardt, Ann Langley, and Kevin Corley—discussed different approaches to theory building with qualitative research. Our goal for the symposium was to increase management scholars' sensitivity to the importance of theory–method "fit" in qualitative research. We have integrated the panelists' prepared remarks and interactive discussion into three sections: an introduction by each scholar, who articulates her or his own approach to qualitative research; their personal reflections on the similarities and differences between approaches to qualitative research; and answers to general questions posed by the audience during the symposium. We conclude by summarizing insights gleaned from the symposium about important distinctions among these three qualitative research approaches and their appropriate usages.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1177/1056492617706029">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Design Performances: How Organizations Inscribe Artifacts to Change Routines</em></p>
+<p class="pub-venue">Academy of Management Journal · 60(6), 2126–2154 · 2017</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Peer C. Fiss, Mark T. Kennedy.</p>
+<p class="pub-title"><em>Making Snowflakes Like Stocks: Stretching, Bending, and Positioning to Make Financial Market Analogies Work in Online Advertising</em></p>
+<p class="pub-venue">Organization Science · 27(4), 1029–1048 · 2016</p>
+<p class="abstract">Analogies to financial markets have proven powerful in establishing novel or potentially controversial business concepts, even in contexts that deviate significantly from financial markets. This phenomenon challenges theory that suggests analogies work best when elements from a source and target domain map closely to each other. To develop a theory that explains how organizations make initially imperfect analogies "work," we use a case study of online advertising exchanges, a market-inspired model for buying and selling online advertising space. We find that as organizations stretch an initially misfitting exchange analogy from financial markets to online advertising, they iteratively bend their activities in superficial, structural, and generative ways to match the analogy and position themselves for advantage in the new space being created. Whereas prior studies emphasize shared cognition about familiar domains as the reason why analogies work, our study offers a dynamic account in which stretching, bending, and positioning combine to not only establish the financial market analogy but also subtly change the understanding of markets.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1287/orsc.2016.1069">View at publisher (DOI)</a></p>
+:::
+
+## Edited Books {#books}
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Christine Moser, Deborah Anderson, P. Devereaux Jennings (eds.).</p>
+<p class="pub-title"><em>Algorithmic Organizing</em></p>
+<p class="pub-venue">Research in the Sociology of Organizations, 95 · Emerald Publishing · 2025</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Christopher W.J. Steele, Timothy R. Hannigan, <strong>Vern L. Glaser</strong>, Madeline Toubiana, Joel Gehman (eds.).</p>
+<p class="pub-title"><em>Macrofoundations: Exploring the Institutionally Situated Nature of Activity</em></p>
+<p class="pub-venue">Research in the Sociology of Organizations, 68 · Emerald Publishing · 2021</p>
+:::
+
+## Book Chapters & Conference Proceedings {#chapters}
+
+::: {.pub}
+<p class="pub-authors">Alex Murray, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Artificial Intelligence and the Reshaping of Social Evaluations</em></p>
+<p class="pub-venue">Oxford Handbook of Social Evaluations · Oxford University Press, 597–612 · 2026</p>
+<p class="abstract">This chapter examines how artificial intelligence (AI) is transforming the nature and dynamics of social evaluations. The chapter builds on the concept of conjoined agency between humans and technologies to propose a framework for understanding how different types of technology—assisting, arresting, augmenting, and automating—shape the formation and evolution of social evaluations. Drawing on organisational research on social judgements and technological change, we theorise how these different forms of human–AI interaction influence three key dimensions of social evaluations: the degree of change, the predictability of change, and responsiveness to environmental feedback. Specifically, the chapter explores how AI systems with varying degrees of agency and autonomy influence the cognitive processes and social interactions through which judgements are formed, and how these shifts impact the stability and institutionalisation of social evaluations. Our analysis reveals that assisting technologies enable moderate adaptability while maintaining human oversight, arresting technologies prioritise consistency through rigid protocols, augmenting technologies facilitate nuanced judgements through human–AI collaboration, and automating technologies enable rapid adaptation but may introduce volatility and opacity. The chapter concludes by examining how blockchain technology might help address emerging challenges of polarisation and misinformation in AI-driven social evaluations, while highlighting important directions for future research on the biographical trajectories of evaluation technologies, their design principles, and their regulation.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1093/oxfordhb/9780198933137.013.0037">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Rodrigo Valadão, <strong>Vern L. Glaser</strong>, Timothy R. Hannigan.</p>
+<p class="pub-title"><em>Assembling Frankensteins: How Data Scientists Stitch Provisional Artifacts to Render Novel Insights</em></p>
+<p class="pub-venue">Research in the Sociology of Organizations, 95, 45–66 · 2025</p>
+<p class="abstract">How do professionals create algorithms to generate novel insights? In this inductive study of data science routines, we develop theory that explains how professionals dynamically create and redesign artifacts to surface insights that guide decision-making and routines. We find that professional data scientists deploy what we conceptualize as protean tools (e.g., programming languages), unearthing their wide range of affordances, and stitching together provisional artifacts (e.g., data structures, visualizations) within broader algorithmic assemblages. By revealing the complex and iterative nature of algorithmic work, our study offers a compelling perspective on algorithms-in-emergence and contributes to the growing conversation on algorithmic organizing.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Jennifer Sloan.</p>
+<p class="pub-title"><em>Assemblage Theory</em></p>
+<p class="pub-venue">Elgar Encyclopedia of Strategy as Practice · Edward Elgar Publishing, 15–17 · 2025</p>
+<p class="abstract">Gilles Deleuze and Félix Guattari collaborated on influential works that significantly impacted various fields, including philosophy, psychoanalysis, political theory, and cultural studies. Their most notable collaboration contributed to the development of assemblage theory, a concept that has been pivotal in providing new ways to understand the interconnectedness and fluidity of social, political, and ecological systems, thereby shaping contemporary thought across various disciplines. At its core, assemblage theory is a framework for understanding complex systems. They describe such systems in terms of assemblages (or agencement in the original French language)—complex entities consisting of a set of components that fit together, characterized by unique and contingent historical identities. Unlike traditional approaches to social science that conceptualize agency as residing in individual entities such as practitioners or organizations or sociomaterial technologies, Deleuze and Guattari suggest that agency cannot be decomposed into its constituent parts, but resides in the assemblage itself.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Timothy R. Hannigan, P. Devereaux Jennings.</p>
+<p class="pub-title"><em>Topic Modeling</em></p>
+<p class="pub-venue">Elgar Encyclopedia of Strategy as Practice · Edward Elgar Publishing, 350–354 · 2025</p>
+<p class="abstract">Topic modeling is a natural language processing-based (NLP) technique used for analyzing content in large collections of texts. It does not rely on artificial intelligence, but rather is an approach that involves varying degrees of human supervision and interpretation to discover topics as coding categories. This is usually conducted with large collections of texts (or documents) referred to as a corpus. Topic modeling is likely of interest to an SAP scholar because it is most useful with a large textual corpus of at least 35,000 words and a few hundred documents; it relies on linguistic principles to create topics across documents; it employs several relatively transparent steps to render a quality model; and it can be adjusted to include temporal dynamics by period or around key constructs.</p>
+<p class="pub-doi"><a href="https://doi.org/10.4337/9781035315963.00096">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Krista Pettit.</p>
+<p class="pub-title"><em>Situatedness</em></p>
+<p class="pub-venue">Elgar Encyclopedia of Strategy as Practice · Edward Elgar Publishing, 246–249 · 2025</p>
+<p class="abstract">Situatedness refers to the concept that individual and collective actions and interactions, behaviors, and knowledge are inherently grounded within the specific physical, social, and temporal contexts in which they occur. This perspective challenges the notion of universal behaviors or practices applicable across all situations, emphasizing instead that understanding and action are deeply influenced by the particularities of place and time. In essence, situatedness underlines the idea that the context in which activity happens is not a mere backdrop but a dynamic component that shapes and is shaped by activity, highlighting the interdependent and recursive relationship between actions and their situational contexts. Practices both mold and are molded by the situations in which they unfold, creating a complex interplay between action and context. This framing is crucial for dissecting and comprehending the complexity of strategic practices within organizations, acknowledging the diversity and specificity of practices across different settings.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Matt Knight, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Beyond Digital Disruption: Harness AI While Preserving Values</em></p>
+<p class="pub-venue">Capital Insights · 2(3), 71–72 · 2025</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Jennifer Sloan, Matt Knight.</p>
+<p class="pub-title"><em>AI Adoption in Family Enterprises: Balancing Innovation with Values</em></p>
+<p class="pub-venue">2025</p>
+<p class="abstract">This article examines the significant AI adoption gap in family businesses, where 40% have not begun exploring AI applications and only 7% are actively implementing these technologies, compared to 32% implementation rates across all companies. We propose a practical framework for family enterprise advisors that conceptualizes AI through three complementary roles: (1) digital assistant for enhancing operational efficiency through administrative automation, (2) data wizard for enabling better decision-making through pattern recognition and predictive analytics, and (3) creative coach for driving innovation while preserving core family values. Drawing on case examples from manufacturing, construction, and consulting contexts, we demonstrate how each role offers distinct pathways for AI integration that align with family businesses' unique characteristics—including their long-term orientation, values-based decision-making, and emphasis on personal relationships. The framework emphasizes that successful AI adoption requires a collaborative approach where technology augments rather than replaces human judgment. We outline six ethical considerations for implementation (data privacy, equity, accountability, transparency, value alignment, and sustainability) and provide practical steps for getting started. Our analysis suggests that family businesses can bridge the AI adoption gap by viewing these technologies as tools that enhance their traditional strengths, ensuring their competitiveness while maintaining the distinctive character that enables multigenerational success.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Mohammad Jarrahi, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Not All AI Systems Are Created Equal: A Typology of AI Systems' Performance and Affordance</em></p>
+<p class="pub-venue">Proceedings of the 58th Annual Hawaii International Conference on Systems Sciences · 2025</p>
+<p class="abstract">This article presents a diverse typology of AI systems, highlighting the qualitative differences in their unique capabilities and material properties. We argue that different AI systems, such as rule-based, supervised learning, unsupervised learning, reinforcement learning, hybrid, and generative AI, play different roles in shaping AI assemblages and their social impacts. Our typology more effectively captures these varying roles and emphasizes the indispensable by varied roles of humans in enacting AI assemblages and the materialization activities required for AI implementation. This framework underscores the importance of recognizing the inherent design characteristics of AI systems, understanding the sociotechnical challenges and opportunities they present, and considering the different types of human expertise necessary for their effective integration into organizations.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Giuseppe Criaco, <strong>Vern L. Glaser</strong>, Joel Gehman.</p>
+<p class="pub-title"><em>Becoming Minoritarian: How De Novo Associations Change Institutional Fields from the Inside Out</em></p>
+<p class="pub-venue">Academy of Management Proceedings · 2022</p>
+<p class="abstract">This study examines institutional change initiated by marginalized actors within a majoritarian institutional field. Unlike prior studies in the literature that have investigated how certain actors accomplish, reinforce or challenge majority status in a field, we focus on a set of marginalized actors who change the institutional field from within, without challenging or overtaking the majority. Building on assemblage theory and drawing on participant observation, interviews, and archival data related to the two largest natural wine associations in Italy, we inductively build a process model of how marginalized actors become minoritarian.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Henrik Berglund, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>The Artifacts of Entrepreneurial Practice</em></p>
+<p class="pub-venue">Research Handbook on Entrepreneurship as Practice · Edward Elgar Publishing, 168–186 · 2022</p>
+<p class="abstract">In this chapter we set out to complement the entrepreneurship as practice perspective by proposing a conceptualization of its central artifacts, such as business models, pitches, and prototypes. Having defined as entrepreneurial those artifacts that serve to instantiate an abstract opportunity in a way that supports its further development, we discuss entrepreneurial artifacts in terms of three broad categories: abstract, material, and narrative. Thereafter we point to some themes for further development before concluding with implications for practice (and practice theory) of entrepreneurship.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Rodrigo Valadão, Timothy R. Hannigan.</p>
+<p class="pub-title"><em>Algorithms and Routine Dynamics</em></p>
+<p class="pub-venue">Cambridge Handbook of Routine Dynamics · Cambridge University Press, 315–328 · 2021</p>
+<p class="abstract">Organizations increasingly rely upon algorithms to change their routines—with positive, negative, or messy outcomes. In this chapter, we argue that conceptualizing algorithms as an integral part of an assemblage provides scholars with the ability to generate novel theories about how algorithms influence routine dynamics. First, we review existing research that shows how algorithms operate as an actant making decisions; encode the intentions of designers; are entangled in broader assemblages of theories, artifacts, actors, and practices; and generate performative effects. Second, we elucidate five analytical approaches that can help management scholars to identify new connections between routine assemblages, their elements, and organizational outcomes. Finally, we outline directions for future research to explore how studying algorithms can advance our understanding of routine dynamics and how a routine dynamics perspective can contribute to the understanding of algorithms in strategy and organizational theory more broadly.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1017/9781108993340.027">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Frithjof Wegener, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Design and Routine Dynamics</em></p>
+<p class="pub-venue">Cambridge Handbook of Routine Dynamics · Cambridge University Press, 301–314 · 2021</p>
+<p class="abstract">Organizational actors spend a tremendous amount of time and energy trying to intentionally change their routines. We conceptualize these intentional changes as routine design— intentional efforts to change one or more aspects of a routine to create a preferred situation. We review existing routines research on intentional change by showing how different perspectives on routines have generated different insights about the relationship between intentional change and design. We highlight a cognitive perspective, a practice perspective, and an ontological process perspective on routine design. We then draw on two perspectives inspired by design studies. Simon's scientific perspective on design suggests that routines scholars study the effects and implications of designing artifacts. Schön's reflective practice perspective on design suggests that routines scholars can examine how actors set the problem, engage in (re)framing, and in reflection-in-action. These design studies perspectives offer routines scholars a better understanding of efforts to intentionally change routines. Based on these insights from design studies, we develop a future research agenda for routine design.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1017/9781108993340.026">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Christopher W.J. Steele, Timothy R. Hannigan, <strong>Vern L. Glaser</strong>, Madeline Toubiana, Joel Gehman.</p>
+<p class="pub-title"><em>Introduction: Macrofoundations: Exploring the Institutionally Situated Nature of Activity</em></p>
+<p class="pub-venue">Research in the Sociology of Organizations, 68, 3–16 · Emerald · 2021</p>
+<p class="abstract">An introduction to our volume on the Macrofoundations of institutions. This volume of Research in the Sociology of Organizations explores the institutional macrofoundations of action, providing an array of insights into the constitutive and contextualizing powers of institutions, and an agenda for further exploration of these themes.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1108/S0733-558X20200000068017">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Evelyn Micelotta, <strong>Vern L. Glaser</strong>, Gabrielle Dorian.</p>
+<p class="pub-title"><em>Qualitative Research in Family Business: Methodological Insights to Leverage Inspiration, Avoid Data Asphyxiation, and Develop Robust Theory</em></p>
+<p class="pub-venue">Handbook of Qualitative Research Methods for Family Business · Edward Elgar Publishing, 25–47 · 2020</p>
+<p class="abstract">This chapter echoes prior calls for a more pervasive and varied use of qualitative methodologies in family business research. The authors start with an overview of current empirical qualitative work in the family business domain in order to understand the methodological preferences of family business scholars and the methods they have gravitated towards. Having established the key difference between methods and methodologies, and the importance of linking analytical approaches to the building of theory, they discuss three exemplars of qualitative methodologies in the general management literature. The final section of the chapter elaborates on opportunities for deeper engagement with these methodologies in the family business domain and suggestions for enriching the qualitative toolkit of family business research.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Nina Eliasoph, Jade Lo, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Navigation Techniques: How Ordinary Participants Orient Themselves in Scrambled Institutions</em></p>
+<p class="pub-venue">Microfoundations of Institutions, Research in the Sociology of Organizations, 65B, 143–168 · Emerald · 2019</p>
+<p class="abstract">In organizations that have to meet demands from multiple sponsors, and that mix missions from different spheres, such as "civic," "market," "family," how do participants orient themselves, so they can interact appropriately? Do participants' practical navigation techniques have unintended consequences? To address these two questions, the authors draw on an ethnography of US youth programs whose sponsors required multiple, conflicting logics, speed, and precise documentation. The authors develop a concept, navigation techniques: participants' shared unspoken methods of orienting themselves and appearing to meet demands from multiple logics, in institutionally complex projects that require frequent documentation. These techniques often have unintended consequences.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Trish Reay, Asma Zafar, Pedro Monteiro, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Presenting Findings from Qualitative Research: One Size Does Not Fit All!</em></p>
+<p class="pub-venue">The Production of Managerial Knowledge and Organizational Theory, Research in the Sociology of Organizations, 59, 201–216 · Emerald · 2019</p>
+<p class="abstract">In this chapter, the authors explore the state of our field in terms of ways to present qualitative findings. The authors analyze all articles based on qualitative research methods published in the Academy of Management Journal from 2010 to 2017 and supplement this by informally surveying colleagues about their "favorite" qualitative authors. As a result, the authors identify five ways of presenting qualitative findings in research articles. The authors suggest that each approach has advantages as well as limitations, and that the type of data and theorizing is an important consideration in determining the most appropriate approach for the presentation of findings. The authors hope that by identifying these approaches, they enrich the way authors, reviewers, and editors approach the presentation of qualitative findings.</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Enchanted Algorithms: How Organizations Use Algorithms to Automate Decision-Making Routines</em></p>
+<p class="pub-venue">Academy of Management Proceedings · 2017</p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Nathanael J. Fast, Derek J. Harmon, Sandy E. Green, Jr.</p>
+<p class="pub-title"><em>Institutional Frame Switching: Institutional Logics and Individual Action</em></p>
+<p class="pub-venue">How Institutions Matter! Research in the Sociology of Organizations, 48A, 35–69 · Emerald · 2016</p>
+<p class="abstract">Although scholars increasingly use institutional logics to explain macro-level phenomena, we still know little about the micro-level psychological mechanisms by which institutional logics shape individual action. In this paper, we propose that individuals internalize institutional logics as an associative network of schemas that shapes individual actions through a process we call institutional frame switching. Specifically, we conduct two novel experiments that demonstrate how one particularly important schema associated with institutional logics—the implicit theory—can drive individual action. This work further develops the psychological underpinnings of the institutional logics perspective by connecting macro-level cultural understandings with micro-level situational behavior.</p>
+<p class="pub-doi"><a href="https://doi.org/10.1108/S0733-558X201600048A001">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors"><strong>Vern L. Glaser</strong>, Peer C. Fiss, Mark Thomas Kennedy.</p>
+<p class="pub-title"><em>Rhetoric and Resonance: Framing Strategies for Institutionalizing New Market Conceptions</em></p>
+<p class="pub-venue">Academy of Management Proceedings · 2011</p>
+:::
+
+```{=html}
+<hr class="rule">
+```
+
+::: {.pub-footnote}
+Published teaching cases are listed on the [Teaching](teaching.qmd) page.
+:::

@@ -1,0 +1,121 @@
+---
+title: "Media & Talks"
+description: "Public commentary, practitioner writing, and invited talks on AI, algorithms, and the future of organizations and family enterprise by Vern L. Glaser."
+pagetitle: "Media & Talks | Vern L. Glaser"
+---
+
+```{=html}
+<div class="page-banner banner--media">
+  <h1>Media &amp; Talks</h1>
+  <p class="page-banner__sub">Public commentary, practitioner writing, and keynotes on AI and organizations.</p>
+</div>
+```
+
+::: {.lead}
+I research how organizations use algorithms, AI, and data analytics to change practices and culture — and I bring that work to public, practitioner, and family-enterprise audiences. My commentary on AI has appeared in outlets including CNN and Times Higher Education, and my practitioner writing reaches managers through MIT Sloan Management Review.
+:::
+
+In 2021, *The Biography of an Algorithm* received the James G. March Prize, awarded bi-annually by EGOS and SAGE for the best article in *Organization Theory*.
+
+```{=html}
+<span class="chip-prize">2021 James G. March Prize</span>
+```
+
+<hr class="rule" />
+
+## Practitioner Writing
+
+```{=html}
+<div class="band--wash">
+<div class="replist">
+
+  <div class="repitem">
+    <p class="repitem__venue">MIT Sloan Management Review · forthcoming</p>
+    <p class="repitem__title">Stop Prompting AI, Start Directing It</p>
+    <p class="repitem__why">With Jennifer Sloan.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">MIT Sloan Management Review · 2023</p>
+    <p class="repitem__title">Predictive Models Can Lose the Plot. Here's How to Keep Them on Track</p>
+    <p class="repitem__why">With Omid Omidvar and Mehdi Safavi. Organizations using algorithms and artificial intelligence often fail to effectively navigate risk and disruption due to a phenomenon we call algorithmic inertia. Drawing on a historical case study of how Moody's rated mortgage-backed securities before the 2008 financial crisis, we identify four sources of algorithmic inertia and four corresponding practices for keeping models on track.</p>
+    <p><a class="repitem__link pub-doi" href="https://sloanreview.mit.edu/article/predictive-models-can-lose-the-plot-heres-how-to-keep-them-on-track/">Read at MIT Sloan Management Review</a></p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">MIT Sloan Management Review · 2022</p>
+    <p class="repitem__title">When Algorithms Rule, Values Can Wither</p>
+    <p class="repitem__why">With Dirk Lindebaum, Christine Moser, and Mehreen Ashraf. When organizations integrate algorithms into business processes, everything must be measured, quantified, standardized, and rationalized so it is ready for computation — a process we call the mechanization of values. We outline three ways organizations can strategically mitigate the risk that efficiency crowds out the full spectrum of human values.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Capital Insights · 2025</p>
+    <p class="repitem__title">Beyond Digital Disruption: Harness AI While Preserving Values</p>
+    <p class="repitem__why">With Matt Knight.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Family Enterprise Practitioner Article · 2025</p>
+    <p class="repitem__title">AI Adoption in Family Enterprises: Balancing Innovation with Values</p>
+    <p class="repitem__why">With Jennifer Sloan and Matt Knight. A practical framework for family enterprise advisors that conceptualizes AI through three complementary roles — digital assistant, data wizard, and creative coach — emphasizing that successful adoption requires technology to augment rather than replace human judgment.</p>
+  </div>
+
+</div>
+</div>
+```
+
+<hr class="rule" />
+
+## Invited Talks & Keynotes
+
+```{=html}
+<div class="replist">
+
+  <div class="repitem">
+    <p class="repitem__venue">Academy of Management · Copenhagen · 2025</p>
+    <p class="repitem__title">Robotic Artistry: Using AI to Promote Discovery in Qualitative Research</p>
+    <p class="repitem__why">Keynote presentation, PDW on Expanding and Extending the Community for Computational Theory Construction. With Jennifer Sloan.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Academy of Management · Copenhagen · 2025</p>
+    <p class="repitem__title">LLMs and AI Agents as Algorithmic Assemblages</p>
+    <p class="repitem__why">PDW on the Strategic Integration of Large Language Models: Challenges, Opportunities, and Organizational Impact.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Edmonton Rotary Club · 2024</p>
+    <p class="repitem__title">AI: Promise or Peril</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Family Business Symposium · Calgary · 2024</p>
+    <p class="repitem__title">AI's Impact on Business Family Values</p>
+    <p class="repitem__why">With Jennifer Sloan and Matt Knight.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Families Summit of Minds · Mont Tremblant · 2023</p>
+    <p class="repitem__title">AI: Promise or Peril?</p>
+    <p class="repitem__why">Family Enterprise Foundation.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">Families Summit of Minds · Banff · 2022</p>
+    <p class="repitem__title">How AI Will Impact Family Firms</p>
+    <p class="repitem__why">Family Enterprise Foundation. With David Beatty and Jordan Allen.</p>
+  </div>
+
+  <div class="repitem">
+    <p class="repitem__venue">University of Alberta Alumni Event · 2020</p>
+    <p class="repitem__title">An Executive Perspective on Analytics</p>
+  </div>
+
+</div>
+```
+
+<hr class="coral-rule" />
+
+## Alberta Business Family Institute
+
+As Academic Director of the Alberta Business Family Institute, I work to translate research on AI, data analytics, and strategic decision-making into practical guidance for family enterprises — through symposia, executive education, and advisory engagement with business families on adopting new technologies while preserving their values.

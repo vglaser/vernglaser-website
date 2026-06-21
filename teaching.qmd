@@ -1,0 +1,182 @@
+---
+title: "Teaching"
+description: "Courses Vern L. Glaser teaches at the University of Alberta — strategy, data analytics, AI, and family business — alongside published cases and doctoral supervision."
+pagetitle: "Teaching | Vern L. Glaser"
+---
+
+```{=html}
+<header class="page-banner banner--teaching">
+  <h1>Teaching</h1>
+  <p class="page-banner__sub">Strategy, AI, and data analytics across MBA, executive, and PhD programs.</p>
+</header>
+```
+
+::: {.lead}
+MBA, undergraduate, and executive courses on strategy, data analytics, artificial intelligence, and family business — plus published teaching cases and doctoral supervision.
+:::
+
+## COURSES
+
+::: {.replist}
+
+::: {.repitem}
+[SEM 620 · MGTSC 820]{.repitem__venue}
+
+[Strategic Decision-Making with Data Analytics / Data Analysis and Decision Making]{.repitem__title}
+
+[This class will help students understand how to use data and algorithms to generate organizational value. Our intention is not to turn you into a quantitative analyst or data scientist, but rather to enable you to be an information consumer of analytics: to use data to frame decisions, to ask effective questions about the data presented to you, to understand and critique the methods by which data has been collected and organized, to use data to improve organizational outcomes, and to advocate for others in your organization to do the same.]{.repitem__why}
+:::
+
+::: {.repitem}
+[BUS 860]{.repitem__venue}
+
+[Managing Intelligence: Strategic Leadership in the Age of AI]{.repitem__title}
+
+[An executive course on how organizations can use data, algorithms, and artificial intelligence to generate value. Students examine two major perspectives on analytics: a positive perspective that highlights the potential for organizations to use analytics, data, and artificial intelligence to generate extreme value, and a negative perspective that highlights the ways that analytics, data, and artificial intelligence can lead to abuses of power and undermine ethics. Building on a conceptual framework drawn from his research, *The Biography of an Algorithm*, students learn how organizations can leverage analytical tools and techniques to enhance organizational decision-making across a variety of empirical contexts.]{.repitem__why}
+:::
+
+::: {.repitem}
+[SEM 427 / 627]{.repitem__venue}
+
+[Strategic Consulting for Family Business]{.repitem__title}
+
+[This course introduces the concepts, tools, and first principles of advising family businesses. It is concerned with how professional service advisors help family businesses make managerial decisions and actions that materially affect the success and survival of their business enterprises. The course focuses on the information, analyses, organizational processes, skills, and business judgments advisors to family businesses are expected to understand and apply.]{.repitem__why}
+:::
+
+::: {.repitem}
+[SEM 502 · SEM 810 · SEM 870]{.repitem__venue}
+
+[Strategy: Managing Organizations, Manager as Strategist, and Corporate Strategy]{.repitem__title}
+
+[A sequence of MBA and executive strategy courses introducing the concepts, tools, and first principles of strategy formation and competitive analysis. They are concerned with managerial decisions and actions that materially affect the success and survival of business enterprises, focusing on the information, analyses, organizational processes, skills, and business judgment managers must use to design strategies, position their business and assets, and define firm boundaries — with the goal of maximizing long-term profits or other strategic objectives in the face of uncertainty and competition.]{.repitem__why}
+:::
+
+::: {.repitem}
+[BUEC 444 / SEM 686]{.repitem__venue}
+
+[European Study Tour: Family Business and Entrepreneurship in European Governance Systems]{.repitem__title}
+
+[This course stresses the important role of entrepreneurship and family business in different corporate governance systems throughout the world. The field trip focuses on Europe and examines Germany, Austria, and the Netherlands in particular. Its four objectives are to become familiar with the diversity and relevance of family business and entrepreneurship in different governance systems; to understand governance differences within Europe that impact family businesses and entrepreneurship; to provide face-to-face interactions with key business executives and scholars; and to understand European culture and the political and economic dynamics of the continent and its role in the global economy.]{.repitem__why}
+:::
+
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+## SIMULATIONS
+
+**[Summit Simulations](https://www.summitsim.com)** is an AI-enabled platform for experiential learning, developed with the Alberta Business Family Institute. Its interactive, scenario-based simulations let students practice the soft skills that matter in the real world — negotiation, advising, governance, and decision-making — and are designed for use in MBA, executive, and family-enterprise courses.
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.band--wash}
+
+## DOCTORAL EDUCATION
+
+::: {.eyebrow}
+PhD seminars
+:::
+
+PhD seminars and graduate methods courses include **Qualitative Methodology for Business Research** (BUS 701), the **PhD Seminar in Strategic Management**, and the algorithmic-organizing curriculum he taught at the **KIN Summer School, VU Amsterdam**.
+
+::: {.eyebrow}
+Doctoral supervision
+:::
+
+::: {.replist}
+
+::: {.repitem}
+[Supervisor]{.repitem__venue}
+
+[Jennifer Kotadia]{.repitem__title}
+
+[Committee: Vern L. Glaser (supervisor), P. Devereaux Jennings, Emily Block. 2025–present.]{.repitem__why}
+:::
+
+::: {.repitem}
+[Co-Supervisor]{.repitem__venue}
+
+[Jennifer Sloan]{.repitem__title}
+
+[Committee: Vern L. Glaser (co-supervisor), Christopher W.J. Steele (co-supervisor), Trish Reay. 2019–2025.]{.repitem__why}
+:::
+
+::: {.repitem}
+[Co-Supervisor]{.repitem__venue}
+
+[Rodrigo Valadão]{.repitem__title}
+
+[Committee: Timothy R. Hannigan (co-supervisor), Vern L. Glaser (co-supervisor), P. Devereaux Jennings. 2018–2023.]{.repitem__why}
+:::
+
+:::
+
+Vern has also served on doctoral dissertation examination and proposal committees at the University of Alberta, the Ivey School of Business, and Memorial University of Newfoundland, frequently as external examiner.
+
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+## PUBLISHED CASES
+
+::: {.replist}
+
+::: {.repitem}
+[Ivey Publishing · 2025]{.repitem__venue}
+
+[Laemmle Theatres: The Art-House Cinema Weighs Its Future]{.repitem__title}
+
+[Mehri Baloochi, Vern Glaser, Ross Melnick, Paul Moore, Deb Verhoeven. Case W40538 and Teaching Note W40539.]{.repitem__why}
+:::
+
+::: {.repitem}
+[Ivey Publishing · 2024]{.repitem__venue}
+
+[Scandinavian Building Services: Preserving the Past and Ensuring the Future]{.repitem__title}
+
+[Jennifer Sloan, Vern L. Glaser. Case W35309 and Teaching Note W35310.]{.repitem__why}
+:::
+
+::: {.repitem}
+[YPO Leadership Dinner · 2025]{.repitem__venue}
+
+[The Entitlement Paradox]{.repitem__title}
+
+[Matt Knight, Vern Glaser. A customized teaching case prepared for a Young Presidents' Organization Leadership Dinner.]{.repitem__why}
+:::
+
+:::
+
+```{=html}
+<hr class="rule">
+```
+
+## TEACHING AWARDS
+
+::: {.replist}
+
+::: {.repitem}
+[2025]{.repitem__venue}
+
+[Donald and Margaret MacKenzie Teaching Award]{.repitem__title}
+:::
+
+::: {.repitem}
+[2025]{.repitem__venue}
+
+[MBA Association Excellence in Teaching Award]{.repitem__title}
+:::
+
+::: {.repitem}
+[2018]{.repitem__venue}
+
+[MBA Association Excellence in Teaching Award]{.repitem__title}
+:::
+
+:::

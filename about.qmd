@@ -1,0 +1,55 @@
+---
+title: "About"
+description: "Before academia, Vern Glaser spent two decades in industry — sales, operations, merger integration, and management consulting — and founded Red Hill Advisors. A note on that path, his education, and community service."
+---
+
+```{=html}
+<div class="page-banner banner--about">
+  <h1>About</h1>
+  <p class="page-banner__sub">My path into academia, and how to get in touch.</p>
+</div>
+```
+
+## Before Academia
+
+Prior to entering academia, I gained experience in sales, customer service, operations management, business development, merger integration, and management consulting. In 2005, I founded Red Hill Advisors, a niche consulting firm which provides management consulting and software development services for medium-sized businesses in a variety of industries. Products and services offered by Red Hill include the Red Hill Enterprise Strategic Insight System, Organizational Assessments and Restructurings, Process Improvement Initiatives, Strategic Planning, and Customized Financial Modeling. Additionally, I co-founded Red Hill Technology Solutions, a joint venture software company that utilizes dashboarding technology and mobile devices to provide real-time Business Intelligence solutions for the construction materials industry.
+
+```{=html}
+<hr class="coral-rule">
+```
+
+In addition to consulting experience, I have worked in the areas of finance, operations, sales, customer service, and maintenance. I have held positions including being the Controller for Southdown, Inc.'s concrete and aggregates group and the Production Manager for Cemex, Inc.'s Southern California ready-mixed concrete operations. Previously, I worked as a business analyst for ARCO Products Company's Los Angeles Refinery.
+
+```{=html}
+<hr class="coral-rule">
+```
+
+I am a graduate of the University of California at Los Angeles (BA, Economics), Duke University's Fuqua School of Business (MBA), and the University of Southern California (PhD).
+
+::: {.band--wash}
+
+## Community Service
+
+I have served the water polo community in Edmonton and across Alberta:
+
+- President, Alberta Water Polo Association, Edmonton, Alberta (2019–2020)
+- Board Member, Alberta Water Polo Association, Edmonton, Alberta (2017–2018)
+- President, Edmonton Water Polo Club, Edmonton, Alberta (2016–2018)
+
+:::
+
+```{=html}
+<hr class="rule">
+```
+
+## Contact
+
+```{=html}
+<p class="lead">
+  <a class="pub-doi" href="mailto:vglaser@ualberta.ca">vglaser@ualberta.ca</a><br>
+  <a class="pub-doi" href="https://orcid.org/0000-0002-3471-9086">ORCID 0000-0002-3471-9086</a><br>
+  <a class="pub-doi" href="https://scholar.google.com/citations?user=R0dT55QAAAAJ">Google Scholar</a>
+</p>
+```
+
+Strategy, Entrepreneurship and Management Department · Alberta School of Business · University of Alberta · Alberta Business Family Institute

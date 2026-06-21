@@ -1,0 +1,57 @@
+---
+title: "Vern L. Glaser"
+description: "Professor of Entrepreneurship and Family Enterprise at the University of Alberta. My research on algorithmic organizing examines how AI, algorithms, and data analytics are reshaping the routines and strategies of organizations, and what this means for agency, expertise, and human values."
+pagetitle: "Vern L. Glaser"
+page-layout: full
+---
+
+```{=html}
+<section class="profile-hero">
+  <div class="profile-hero__inner">
+    <h1 class="hero__question">How are AI&nbsp;and&nbsp;algorithms reshaping organizational routines and strategy?</h1>
+    <hr class="hero__rule">
+    <p class="hero__title">Vern L. Glaser · Professor of Entrepreneurship &amp; Family Enterprise, University of Alberta<br>Academic Director, Alberta Business Family Institute</p>
+  </div>
+</section>
+```
+
+## Profile
+
+::: {.profile-bio}
+```{=html}
+<img class="profile-photo" src="assets/vern-glaser.jpg" alt="Vern L. Glaser">
+```
+
+I am a Professor of Entrepreneurship and Family Enterprise in the Strategy, Entrepreneurship and Management Department at the University of Alberta. I study the question, *How are AI and algorithms reshaping organizational routines and strategy?* My research on algorithmic organizing examines how algorithms, artificial intelligence, and data analytics are changing the way organizations coordinate routines, make decisions, and set strategy. A theme that runs through this work is that algorithms actively shape how organizations see and act. Agency is distributed across assemblages of people, algorithms, data, and artifacts, and the capacity to act emerges from how those elements come together. I am especially interested in what this means for work and expertise. My current projects look at how generative AI is reshaping professional judgment, and at what happens to human values when organizations hand more of their decisions to machines.
+
+My empirical research relies on in-depth qualitative fieldwork. I have studied the online display advertising industry as it took shape, and I conducted a close analysis of how a major credit rating agency's routines failed to keep pace with its environment in the period around the financial crisis. I am currently working on a project on vibe coding, the emerging practice of building software by directing AI in everyday language. A continuing strand of my work concerns research methods, where I write about how scholars can build strong theory from qualitative and computational data, including the careful use of topic modeling and text analysis.
+:::
+
+::: {.band--wash}
+## Selected Work
+
+::: {.replist}
+
+::: {.repitem}
+<span class="repitem__venue">Academy of Management Review · Forthcoming</span>
+<div class="repitem__title"><em>The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted</em></div>
+<p class="repitem__why">As AI agents take on more of an organization's decisions, the values it actually enacts can drift from the ones it formally espouses. With Jennifer Sloan, Rodrigo Valadão, and Evelyn Micelotta, we trace how the interaction of people and AI transforms organizational values as work passes through layered AI systems, and we show how each round of enactment feeds back to reshape the values that come next.</p>
+:::
+
+::: {.repitem}
+<span class="repitem__venue">Strategic Organization · Forthcoming</span>
+<div class="repitem__title"><em>Robotic Artistry: Four Surprise Pathways for Gen-AI-Assisted Abductive Theorization</em></div>
+<p class="repitem__why">With Jennifer Sloan, we show how generative AI, used with care, can strengthen qualitative research. We identify four ways it can surface the surprises that drive theory building, along with practices that keep interpretation and meaning-making firmly in human hands.</p>
+<a class="repitem__link pub-doi" href="https://doi.org/10.1177/14761270261448648">View on DOI</a>
+:::
+
+::: {.repitem}
+<span class="repitem__venue">Organization Theory · 2021</span>
+<span class="chip-prize">2021 James G. March Prize</span>
+<div class="repitem__title"><em>The Biography of an Algorithm: Performing Algorithmic Technologies in Organizations</em></div>
+<p class="repitem__why">With Neil Pollock and Luciana D'Adderio, we show that an algorithm is best understood as an evolving assemblage with its own biography, shaped over time by the people, theories, and technologies bound up in it. Following an algorithm across its life helps explain how it comes to automate decisions, carry expertise, and shape what organizations do.</p>
+<a class="repitem__link pub-doi" href="https://doi.org/10.1177/26317877211004609">View on DOI</a>
+:::
+
+:::
+:::

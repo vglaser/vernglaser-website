@@ -1,0 +1,78 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!research.qmd"   # tab removed 2026.06.18 (source kept for reuse)
+    - "!media.qmd"      # tab removed 2026.06.18 (source kept for reuse)
+  resources:
+    - assets/
+  preview:
+    port: 4848
+    browser: false
+
+website:
+  title: "Vern L. Glaser"
+  description: "Vern L. Glaser, Professor of Entrepreneurship and Family Enterprise at the University of Alberta. Research on algorithmic organizing: how AI, algorithms, and data analytics reshape the routines and strategies of organizations."
+  site-url: "https://www.vernglaser.com"
+  favicon: assets/vern-glaser.jpg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    background: light
+    pinned: true
+    title: "Vern L. Glaser"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-3471-9086"
+        aria-label: "ORCID"
+      - text: "Scholar"
+        href: "https://scholar.google.com/citations?user=R0dT55QAAAAJ"
+        aria-label: "Google Scholar"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/vernglaser"
+        aria-label: "LinkedIn"
+      - icon: envelope-fill
+        href: "mailto:vglaser@ualberta.ca"
+        aria-label: "Email"
+  page-footer:
+    border: true
+    left: "© 2026 Vern L. Glaser · vglaser@ualberta.ca"
+    center: "University of Alberta · Alberta Business Family Institute"
+    right:
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-3471-9086"
+      - text: "Scholar"
+        href: "https://scholar.google.com/citations?user=R0dT55QAAAAJ"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/vernglaser"
+        aria-label: "LinkedIn"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand.scss
+    css: styles.css
+    toc: false
+    title-block-style: none
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    grid:
+      body-width: 980px
+    include-in-header:
+      - _includes/head-custom.html
+    page-layout: full
