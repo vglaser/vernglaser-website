@@ -164,7 +164,7 @@ a:hover { color: $accent-deep; }
 // ---------------------------------------------------------------------------
 // PUBLICATIONS
 // ---------------------------------------------------------------------------
-.pub { padding: 1.1rem 0; }
+.pub { padding: 0; }
 .pub-authors { font-weight: 500; color: $ink; margin-bottom: 0.3rem; }
 .pub-authors strong { font-weight: 800; color: $ink-strong; }
 .pub-title { font-size: 1.2rem; color: $ink-strong; margin-bottom: 0.6rem; line-height: 1.35; font-weight: 600; }
@@ -181,6 +181,8 @@ a:hover { color: $accent-deep; }
 .pub-jump a:hover { color: $accent; border-bottom-color: $accent; }
 .pub-footnote { color: $muted; font-size: 0.95rem; }
 .pub-footnote a { color: $accent; font-weight: 600; }
+// Tighten the gap from the jump-nav to the first section heading (other sections keep the full $gap break)
+#articles > h2 { margin-top: 1.75rem; }
 
 // ---------------------------------------------------------------------------
 // SELECTED / REPRESENTATIVE WORK
