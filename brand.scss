@@ -109,15 +109,35 @@ a:hover { color: $accent-deep; }
 .lead { font-size: 1.25rem; font-weight: 400; color: $ink; line-height: 1.6; margin: 0 0 1.5rem; max-width: none; }
 
 // ---------------------------------------------------------------------------
-// HOMEPAGE HERO — two columns: text left, strata image panel right (light & airy)
+// HOMEPAGE HERO — full-bleed strata background; headline over a soft left scrim.
+// The background image is set INLINE on .profile-hero with a RELATIVE path so it
+// resolves under the GitHub Pages project subpath (a root-absolute url() in the
+// compiled CSS 404s there). The scrim keeps navy text legible while the art
+// blooms at full contrast on the open (right) side.
 // ---------------------------------------------------------------------------
-.profile-hero { position: relative; background-color: #ffffff; border-bottom: 1px solid $rule-warm; overflow: hidden; }
-.profile-hero__inner { position: relative; z-index: 2; display: grid; grid-template-columns: 1.02fr 0.98fr; gap: clamp(1.5rem, 4vw, 3.25rem); align-items: center; padding-block: clamp(2.75rem, 5vw, 4.25rem); }
-.hero__text { min-width: 0; }
-.hero__media { background: url('/assets/banner-about.png') center/cover no-repeat; border-radius: 12px; min-height: clamp(260px, 26vw, 360px); box-shadow: 0 18px 44px rgba(12,32,52,0.20); }
-.hero__question { color: $ink-strong; font-weight: 800; font-size: clamp(1.9rem, 3.6vw, 2.8rem); line-height: 1.1; letter-spacing: -0.015em; margin: 0 0 1.3rem; }
+.profile-hero {
+  position: relative; overflow: hidden;
+  background-color: #cdddee;                 // light fallback — never a dark/empty box
+  background-size: cover; background-position: center right;
+  border-bottom: 1px solid $rule-warm;
+}
+.profile-hero::after {
+  content: ''; position: absolute; inset: 0; z-index: 1;
+  background: linear-gradient(95deg,
+    rgba(248,251,254,0.95) 0%, rgba(248,251,254,0.88) 26%,
+    rgba(248,251,254,0.58) 48%, rgba(248,251,254,0.16) 70%, rgba(248,251,254,0) 88%);
+}
+.profile-hero__inner {
+  position: relative; z-index: 2;
+  display: flex; flex-direction: column; justify-content: center;
+  min-height: clamp(360px, 42vw, 520px);
+  padding-block: clamp(3rem, 5.5vw, 5rem);
+}
+.hero__text { max-width: 660px; }
+.hero__media { display: none; }              // image is now the hero background
+.hero__question { color: $ink-strong; font-weight: 800; font-size: clamp(2rem, 3.8vw, 3rem); line-height: 1.12; letter-spacing: -0.015em; margin: 0 0 1.3rem; text-shadow: 0 1px 2px rgba(255,255,255,0.55); }
 .hero__rule { width: 64px; height: 4px; background: $accent; border: 0; margin: 0 0 1.3rem; }
-.hero__title { font-size: 1.02rem; color: $ink; line-height: 1.6; font-weight: 500; }
+.hero__title { font-size: 1.05rem; color: $ink; line-height: 1.6; font-weight: 600; max-width: 580px; text-shadow: 0 1px 2px rgba(255,255,255,0.5); }
 
 // Profile section photo (moved here from the hero) — small, in context
 .profile-bio { font-size: 1.14rem; line-height: 1.7; color: $ink; }
@@ -128,27 +148,29 @@ a:hover { color: $accent-deep; }
 }
 
 // ---------------------------------------------------------------------------
-// PAGE BANNER — full-bleed image, bold white title + subtitle below
+// PAGE BANNER — full-bleed strata background; title over a soft left scrim.
+// The image is set INLINE per page with a RELATIVE path (assets/banner-*.png)
+// so it resolves under the GitHub Pages project subpath — a root-absolute
+// url('/assets/…') baked into the compiled CSS 404s there (that was the bug
+// that made every live banner fall back to a flat colour box).
 // ---------------------------------------------------------------------------
 .page-banner {
-  position: relative; min-height: 230px;
-  padding-block: clamp(3rem, 5vw, 4.25rem);
+  position: relative; min-height: clamp(220px, 24vw, 300px);
+  padding-block: clamp(2.75rem, 5vw, 4.25rem);
   display: flex; flex-direction: column; justify-content: center;
-  background-color: #eef3f9; overflow: hidden;
+  background-color: #cdddee; overflow: hidden;       // light fallback — never a dark/empty box
+  background-size: cover; background-position: center right;
 }
-.page-banner::before { content: ''; position: absolute; inset: 0; z-index: 0; background-size: cover; background-position: center; }
-// Lighter wash so the strata image shows; centered text stays legible via a white halo (text-shadow)
-.page-banner::after  { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(180deg, rgba(238,243,249,0.32) 0%, rgba(238,243,249,0.40) 100%); }
+// Soft directional scrim: light behind the title, fading to fully clear so the art blooms on the right.
+.page-banner::after {
+  content: ''; position: absolute; inset: 0; z-index: 1;
+  background: linear-gradient(95deg,
+    rgba(248,251,254,0.94) 0%, rgba(248,251,254,0.85) 24%,
+    rgba(248,251,254,0.52) 46%, rgba(248,251,254,0.12) 68%, rgba(248,251,254,0) 85%);
+}
 .page-banner > * { position: relative; z-index: 2; }
-.page-banner h1 { color: $ink-strong; font-weight: 800; margin: 0 auto; text-shadow: 0 1px 12px rgba(246,249,252,0.97), 0 0 5px rgba(246,249,252,0.9); }
-.page-banner__sub { color: $ink; font-weight: 600; font-size: clamp(1rem, 1.6vw, 1.15rem); line-height: 1.5; margin: 0.7rem auto 0; max-width: $content; text-shadow: 0 1px 8px rgba(246,249,252,0.95); }
-
-.banner--research::before    { background-image: url('/assets/banner-research.png'); }
-.banner--pubs::before        { background-image: url('/assets/banner-about.png'); }
-.banner--teaching::before    { background-image: url('/assets/banner-teaching.png'); }
-.banner--media::before       { background-image: url('/assets/banner-media.png'); }
-.banner--cv::before          { background-image: url('/assets/banner-about.png'); }
-.banner--about::before        { background-image: url('/assets/banner-about.png'); }
+.page-banner h1 { color: $ink-strong; font-weight: 800; margin: 0 auto; text-shadow: 0 1px 2px rgba(255,255,255,0.6); }
+.page-banner__sub { color: $ink; font-weight: 600; font-size: clamp(1rem, 1.6vw, 1.15rem); line-height: 1.5; margin: 0.6rem auto 0; max-width: $content; text-shadow: 0 1px 2px rgba(255,255,255,0.5); }
 
 // ---------------------------------------------------------------------------
 // BANDS + DIVIDERS
@@ -217,8 +239,11 @@ a:hover { color: $accent-deep; }
 // RESPONSIVE
 // ---------------------------------------------------------------------------
 @media (max-width: 820px) {
-  .profile-hero__inner { grid-template-columns: 1fr; gap: 1.75rem; }
-  .hero__media { min-height: 220px; }
+  // Narrow screens: text spans the full width, so veil the image more uniformly for legibility.
+  .profile-hero::after, .page-banner::after {
+    background: linear-gradient(180deg, rgba(248,251,254,0.88) 0%, rgba(248,251,254,0.80) 100%);
+  }
+  .profile-hero__inner { min-height: 300px; }
 }
 @media (max-width: 620px) {
   .profile-photo { float: none; display: block; margin: 0 auto 1.5rem; width: 180px; }

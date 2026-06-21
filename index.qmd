@@ -6,14 +6,13 @@ page-layout: full
 ---
 
 ```{=html}
-<section class="profile-hero">
+<section class="profile-hero" style="background-image:url('assets/banner-about.png')">
   <div class="profile-hero__inner">
     <div class="hero__text">
-      <h1 class="hero__question">How are AI&nbsp;and&nbsp;algorithms reshaping organizational routines and strategy?</h1>
+      <h1 class="hero__question">How are AI and algorithms reshaping organizational routines and strategy?</h1>
       <hr class="hero__rule">
       <p class="hero__title">Vern L. Glaser · Professor of Entrepreneurship &amp; Family Enterprise, University of Alberta<br>Academic Director, Alberta Business Family Institute</p>
     </div>
-    <div class="hero__media" role="img" aria-label="Abstract layered strata artwork in blue and cream"></div>
   </div>
 </section>
 ```

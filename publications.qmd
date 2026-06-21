@@ -5,7 +5,7 @@ pagetitle: "Publications — Vern L. Glaser"
 ---
 
 ```{=html}
-<header class="page-banner banner--pubs">
+<header class="page-banner" style="background-image:url('assets/banner-publications.png')">
   <h1>Publications</h1>
   <p class="page-banner__sub">Journal articles, books, and chapters — with abstracts.</p>
 </header>

@@ -5,7 +5,7 @@ pagetitle: "Teaching | Vern L. Glaser"
 ---
 
 ```{=html}
-<header class="page-banner banner--teaching">
+<header class="page-banner" style="background-image:url('assets/banner-teaching.png')">
   <h1>Teaching</h1>
   <p class="page-banner__sub">Strategy, AI, and data analytics across MBA, executive, and PhD programs.</p>
 </header>
