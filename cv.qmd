@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ```{=html}
-<header class="page-banner" style="background-image:url('assets/banner-media.png')">
+<header class="page-banner page-banner--dark" style="background-image:url('assets/banner-cv.png')">
   <h1>Curriculum Vitae</h1>
   <p class="page-banner__sub">Education, positions, honors, and grants — full PDF available.</p>
 </header>
