@@ -30,17 +30,7 @@ Peer-reviewed articles, edited volumes, and book chapters, with the abstract und
 <p class="pub-title"><em>The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted</em></p>
 <p class="pub-venue">Academy of Management Review · Forthcoming</p>
 <p class="abstract">Organizational scholars have long recognized that espoused values diverge from enacted values. LLM-based AI agents—autonomous software systems capable of perceiving environments, making decisions, collaborating, and taking actions to achieve defined goals—create a novel form of this classic problem. Unlike traditional technologies where humans retain interpretive control, AI agents autonomously navigate value trade-offs, and enacted values may differ from those espoused. How does the interaction of humans and AI transform espoused organizational values? Drawing on assemblage theory, we trace values transformation across three stacked assemblages (the LLM assemblage, the AI agent assemblage, and the algorithmic routine assemblage) through three transformation moments. During configuration, inherited orientations become explicit parameters; during embedding, parameters are integrated into organizational routines; during performance, values are enacted through the interplay of algorithmic pathways and improvised responses. Recursive feedback connects enacted outcomes to subsequent configurations, producing ongoing transformation rather than stable alignment. Our framework extends scholarship on espoused and enacted values by specifying technologically mediated transformation mechanisms produced through the interaction of humans and AI.</p>
-:::
-
-```{=html}
-<hr class="rule-mark">
-```
-
-::: {.pub}
-<p class="pub-authors">Jennifer Sloan, <strong>Vern L. Glaser</strong>.</p>
-<p class="pub-title"><em>Stop Prompting AI, Start Directing It</em></p>
-<p class="pub-venue">MIT Sloan Management Review · Forthcoming</p>
-<p class="abstract">Many managers treat generative AI like a vending machine: type a prompt, take whatever comes out, and move on. We argue that this transactional habit squanders the technology's potential. Drawing on research into how organizations work with algorithms and AI, we suggest a more productive stance—stop prompting AI and start directing it. Like a director guiding a talented but literal-minded collaborator, leaders get markedly better results when they supply rich context, articulate the goal and the constraints, make explicit the values and guardrails the work must respect, and iterate across successive drafts rather than expecting a finished answer in a single shot. We offer practical principles for directing AI, and explain why treating it as a collaborator to be guided—rather than a tool to be queried—is becoming a core managerial capability.</p>
+<p class="pub-doi"><a href="assets/papers/Glaser-et-al-Axiology-of-AI-Agents-AMR-accepted.pdf">Read the paper (PDF, accepted manuscript)</a></p>
 :::
 
 ```{=html}
@@ -53,6 +43,18 @@ Peer-reviewed articles, edited volumes, and book chapters, with the abstract und
 <p class="pub-venue">Strategic Organization · Forthcoming</p>
 <p class="abstract">The role of generative AI (GenAI) in qualitative research is subject to intense debate, with critics warning that it could undermine human sensitivity and contextual understanding. We argue that thoughtfully integrated AI can enhance qualitative research by promoting discovery and surprise, both essential elements of theory building. Drawing on Picasso's iterative abstraction in The Bull and Refik Anadol's Unsupervised exhibition at MoMA, we treat reduction and synthesis as complementary engines of insight and identify four surprise generation pathways in GenAI-assisted abductive analysis: multiplying lenses, surfacing absences, bridging levels, and testing categories. When paired with interpretive vigilance operationalized through four heuristics, meaning-making remains squarely in human hands. Using an empirical example of organizational future-making, we show how AI's pattern recognition combined with human interpretation reveals insights neither could achieve alone. Our framework positions AI as a collaborative partner that amplifies researchers' capacity for theoretical discovery while preserving methodological rigor and interpretive depth.</p>
 <p class="pub-doi"><a href="https://doi.org/10.1177/14761270261448648">View at publisher (DOI)</a></p>
+:::
+
+```{=html}
+<hr class="rule-mark">
+```
+
+::: {.pub}
+<p class="pub-authors">Jennifer Sloan, <strong>Vern L. Glaser</strong>.</p>
+<p class="pub-title"><em>Stop Prompting AI. Start Directing It</em></p>
+<p class="pub-venue">MIT Sloan Management Review · August 5, 2026</p>
+<p class="abstract">Conversational AI speeds up familiar work. Configuring AI to interrogate your data — what we call <em>directing intelligence</em> — surfaces insights that familiar ways of working tend to miss. Prompting is reactive: a professional asks, the model answers, and the exchange lasts only as long as the window is open. An agentic system is configured rather than conversed with, through three choices — the context it can access, the capabilities it can use, and the orientation it pays attention to — and the same data given different orientations will surface different patterns. We describe four approaches that generate discovery from friction: using multiple lenses held in deliberate tension, surfacing silences between what data contains and what the organization discusses, bridging levels from where a problem appears to where it originates, and stress-testing categories against operational reality. Directing intelligence means configuring for discovery rather than answers, treating the unexpected as signal rather than error, and evaluating what agents produce as proposals that open inquiry rather than findings that close it.</p>
+<p class="pub-doi"><a href="https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/">Read at MIT Sloan Management Review</a></p>
 :::
 
 ```{=html}

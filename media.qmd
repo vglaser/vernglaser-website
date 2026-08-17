@@ -30,9 +30,10 @@ In 2021, *The Biography of an Algorithm* received the James G. March Prize, awar
 <div class="replist">
 
   <div class="repitem">
-    <p class="repitem__venue">MIT Sloan Management Review · forthcoming</p>
-    <p class="repitem__title">Stop Prompting AI, Start Directing It</p>
-    <p class="repitem__why">With Jennifer Sloan.</p>
+    <p class="repitem__venue">MIT Sloan Management Review · August 5, 2026</p>
+    <p class="repitem__title">Stop Prompting AI. Start Directing It</p>
+    <p class="repitem__why">With Jennifer Sloan. Conversational AI speeds up familiar work, but configuring AI to interrogate your data — what we call directing intelligence — surfaces the insights that familiar ways of working tend to miss. We set out four ways to direct agentic systems toward discovery rather than answers.</p>
+    <p><a class="repitem__link pub-doi" href="https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/">Read at MIT Sloan Management Review</a></p>
   </div>
 
   <div class="repitem">
