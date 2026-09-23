@@ -1,11 +1,10 @@
 ---
 title: "Publications"
 description: "Peer-reviewed journal articles, edited books, and book chapters and conference proceedings by Vern L. Glaser."
-pagetitle: "Publications — Vern L. Glaser"
 ---
 
 ```{=html}
-<header class="page-banner" style="background-image:url('assets/banner-publications.png')">
+<header class="page-banner" style="background-image:url('assets/banner-publications.webp')">
   <h1>Publications</h1>
   <p class="page-banner__sub">Journal articles, books, and chapters — with abstracts.</p>
 </header>

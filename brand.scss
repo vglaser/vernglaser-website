@@ -54,6 +54,7 @@ $gutter: 1.25rem;
 $gap: 3.5rem;   // standard gap between sections
 
 main#quarto-document-content.content {
+  width: 100%;          // grid item + auto margins would otherwise shrink-to-fit on short pages (the 404)
   max-width: $content;
   margin-inline: auto;
   padding-inline: $gutter;
@@ -263,3 +264,14 @@ a:hover { color: $accent-deep; }
 @media (max-width: 620px) {
   .profile-photo { float: none; display: block; margin: 0 auto 1.5rem; width: 180px; }
 }
+
+// Skip link (keyboard accessibility): hidden until focused, then pinned top-left above the navbar.
+.skip-link {
+  position: absolute; left: 1rem; top: -3rem; z-index: 2000;
+  padding: .6rem 1rem; background: $accent; color: #fff; font-weight: 600;
+  border-radius: $border-radius; text-decoration: none;
+}
+.skip-link:focus { top: .75rem; color: #fff; }
+
+// Inline SVG icons (swapped in for Bootstrap Icons by _tools/post-render.py); same metrics as .bi::before.
+.bi-svg { display: inline-block; vertical-align: -.125em; }

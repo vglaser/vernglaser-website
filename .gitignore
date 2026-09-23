@@ -13,12 +13,11 @@
 
 # Internal working notes — NOT website content; keep out of the repo
 /CLAUDE.md
-/2026.06.18 - website-project-brief.md
+/20??.??.?? - *.md
 /.claude/
 
-# Superseded / rejected design assets — kept locally in Dropbox, not published
-/assets/navy-options/
-/assets/_coral-backup-2026.06.19/
-/assets/bg/
-/assets/hero-dark.png
-/assets/tex-*
+# Superseded design assets and full-resolution image masters — kept locally in Dropbox, not published
+/_asset-archive/
+
+# Dropbox sync-conflict duplicates
+*conflicted copy*

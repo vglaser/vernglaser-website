@@ -1,0 +1,29 @@
+---
+title: "Page not found"
+description: "This page does not exist on vernglaser.com."
+sitemap: false
+page-layout: full
+include-in-header:
+  text: '<meta name="robots" content="noindex">'
+---
+
+```{=html}
+<!-- Root-absolute image path on purpose: GitHub Pages serves this file for any missing
+     URL at any depth, so a relative path would break on nested paths like /a/b. -->
+<header class="page-banner" style="background-image:url('/assets/banner-publications.webp')">
+  <h1>Page not found</h1>
+  <p class="page-banner__sub">The link may be out of date, or the address mistyped.</p>
+</header>
+```
+
+::: {.lead}
+The page you were looking for is not here. Most of the site lives on a few pages:
+:::
+
+- [Home](/index.html): research program and selected work
+- [Publications](/publications.html): articles, books, and chapters, with abstracts
+- [Teaching](/teaching.html)
+- [CV](/cv.html)
+- [About](/about.html)
+
+Looking for a specific paper? Email [vglaser@ualberta.ca](mailto:vglaser@ualberta.ca) and I will send it.

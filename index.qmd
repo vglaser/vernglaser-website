@@ -2,11 +2,12 @@
 title: "Vern L. Glaser"
 description: "Professor of Entrepreneurship and Family Enterprise at the University of Alberta. My research on algorithmic organizing examines how AI, algorithms, and data analytics are reshaping the routines and strategies of organizations, and what this means for agency, expertise, and human values."
 pagetitle: "Vern L. Glaser"
+image: assets/share-card.jpg
 page-layout: full
 ---
 
 ```{=html}
-<section class="profile-hero" style="background-image:url('assets/banner-about.png')">
+<section class="profile-hero" style="background-image:url('assets/banner-home.webp')">
   <div class="profile-hero__inner">
     <div class="hero__text">
       <h1 class="hero__question">How are AI and algorithms reshaping organizational routines and strategy?</h1>

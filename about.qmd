@@ -4,7 +4,7 @@ description: "Before academia, Vern Glaser spent two decades in industry — sal
 ---
 
 ```{=html}
-<div class="page-banner page-banner--dark" style="background-image:url('assets/banner-research.png')">
+<div class="page-banner page-banner--dark" style="background-image:url('assets/banner-about.webp')">
   <h1>About</h1>
   <p class="page-banner__sub">My path into academia, and how to get in touch.</p>
 </div>
@@ -47,6 +47,7 @@ I have served the water polo community in Edmonton and across Alberta:
 ```{=html}
 <p class="lead">
   <a class="pub-doi" href="mailto:vglaser@ualberta.ca">vglaser@ualberta.ca</a><br>
+  <a class="pub-doi" href="https://apps.ualberta.ca/directory/person/vglaser">University of Alberta faculty profile</a><br>
   <a class="pub-doi" href="https://orcid.org/0000-0002-3471-9086">ORCID 0000-0002-3471-9086</a><br>
   <a class="pub-doi" href="https://scholar.google.com/citations?user=R0dT55QAAAAJ">Google Scholar</a>
 </p>

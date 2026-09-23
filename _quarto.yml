@@ -8,6 +8,9 @@ project:
   resources:
     - assets/
     - CNAME    # GitHub Pages custom domain — kept in source so `quarto publish` re-emits it every deploy
+    - robots.txt   # hand-written; replaces Quarto's auto-generated Sitemap-only file
+  post-render:
+    - _tools/post-render.py   # drops Quarto's hidden title block (duplicate h1); adds the skip link
   preview:
     port: 4848
     browser: false
@@ -16,8 +19,11 @@ website:
   title: "Vern L. Glaser"
   description: "Vern L. Glaser, Professor of Entrepreneurship and Family Enterprise at the University of Alberta. Research on algorithmic organizing: how AI, algorithms, and data analytics reshape the routines and strategies of organizations."
   site-url: "https://vernglaser.com"
+  image: assets/share-card.jpg   # 1200x630 default share card (source: _tools/share-card.html)
+  image-alt: "Vern L. Glaser: How are AI and algorithms reshaping organizational routines and strategy?"
   open-graph: true
-  twitter-card: true
+  twitter-card:
+    card-style: summary_large_image
   navbar:
     background: light
     pinned: true
@@ -51,6 +57,8 @@ website:
     left: "© 2026 Vern L. Glaser · vglaser@ualberta.ca"
     center: "University of Alberta · Alberta Business Family Institute"
     right:
+      - text: "UAlberta"
+        href: "https://apps.ualberta.ca/directory/person/vglaser"
       - text: "ORCID"
         href: "https://orcid.org/0000-0002-3471-9086"
       - text: "Scholar"
@@ -76,3 +84,4 @@ format:
     include-in-header:
       - _includes/head-custom.html
     page-layout: full
+    canonical-url: true

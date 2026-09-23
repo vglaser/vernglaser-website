@@ -1,11 +1,10 @@
 ---
 title: "Teaching"
 description: "Courses Vern L. Glaser teaches at the University of Alberta — strategy, data analytics, AI, and family business — alongside published cases and doctoral supervision."
-pagetitle: "Teaching | Vern L. Glaser"
 ---
 
 ```{=html}
-<header class="page-banner" style="background-image:url('assets/banner-teaching.png')">
+<header class="page-banner" style="background-image:url('assets/banner-teaching.webp')">
   <h1>Teaching</h1>
   <p class="page-banner__sub">Strategy, AI, and data analytics across MBA, executive, and PhD programs.</p>
 </header>

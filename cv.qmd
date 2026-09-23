@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ```{=html}
-<header class="page-banner page-banner--dark" style="background-image:url('assets/banner-cv.png')">
+<header class="page-banner page-banner--dark" style="background-image:url('assets/banner-cv.webp')">
   <h1>Curriculum Vitae</h1>
   <p class="page-banner__sub">Education, positions, honors, and grants — full PDF available.</p>
 </header>
@@ -63,7 +63,7 @@ Assistant Professor, Alberta School of Business, University of Alberta (2014 –
 
 Awarded bi-annually for the best article in *Organization Theory* (EGOS / SAGE), for *The Biography of an Algorithm*.
 
-<hr class="coral-rule">
+<hr class="coral-rule" />
 
 Eric Geddes Professor of Business Faculty Fellowship, *Beyond Project Management: Understanding the Relational Work of Family Business Consulting* (2025 – 2027)
 
